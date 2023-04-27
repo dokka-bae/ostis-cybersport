@@ -1,0 +1,107 @@
+.map{
+    margin-top: 48px;
+
+    &-header{
+        width: 100%;
+        height: 128*3px;
+        background: #202329;
+        border-radius: 24px;
+        display: flex;
+        color: #fbfbfb;
+
+        img{
+            width: 60%;
+            height: 100%;
+            object-fit: cover;
+            object-position: bottom;
+            border-radius: 24px 0 0 24px;
+        }
+
+        &-content{
+            width: 40%;
+            margin: 36px;
+
+            display: flex;
+            flex-direction: column;
+            gap: 24px;
+
+            &-name{
+                font-size: 24px;
+                font-weight: 600;
+                text-transform: uppercase;
+                line-height: 48px;
+
+                border-bottom: 1px #fbfbfb solid;
+
+            }
+
+            &-item{
+                display: flex;
+                align-items: center;
+                border-bottom: 1px #fbfbfb solid;
+                gap: 12px;
+                &-title{
+                    line-height: 42px;
+                    font-size: 16px;
+                    font-weight: 400;
+                    color: #b8b8b8;
+                }
+                &-value{
+                    font-size: 18px;
+                    font-weight: 500; 
+                    gap: 4px;
+                }   
+            }
+            &-item_play{
+                display: flex;
+                align-items: start;
+                border-bottom: 1px #fbfbfb solid;
+                gap: 24px;
+                &-title{
+                    font-size: 16px;
+                    font-weight: 400;
+                    color: #b8b8b8;
+                }
+                &-value{
+                    display: grid;
+                    grid-template-columns: repeat(3, 1fr);
+                    grid-auto-rows: 24px;
+                    gap: 4px;
+
+                    a{
+                    font-size: 18px;
+                    font-weight: 500; 
+                        color: #fbfbfb;
+                    }
+                }
+            }
+        }
+    }
+
+    &-overview{
+        height: 256px;
+        &-title{
+            font-size: 24px;
+            font-weight: 600;
+            text-align: center;
+            margin: 48px 0;
+        }
+        &-text{
+            font-size: 18px;
+        }
+    }
+
+    &-blueprints{
+        height: 256px;
+        &-title{
+            font-size: 24px;
+            font-weight: 600;
+            text-align: center;
+            margin: 48px 0;
+        }
+        img{
+            width: 100%;
+            border-radius: 24px;
+        }
+    }
+}

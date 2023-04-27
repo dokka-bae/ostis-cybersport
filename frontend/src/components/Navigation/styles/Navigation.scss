@@ -1,0 +1,14 @@
+.navigation{
+  margin-top: 12px;
+  padding: 12px 48px;
+  border-radius: 24px;
+  height: 48px;
+  background: #282c34;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+    a{
+      text-transform: uppercase;
+      color: #fbfbfb;
+    }
+}

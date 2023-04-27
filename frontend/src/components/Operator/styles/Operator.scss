@@ -1,0 +1,243 @@
+.operator{
+    margin-top: 48px;
+    &-header{
+        height: 128*2px;
+        width: 100%;
+        border-radius: 24px;
+        background: url('https://static-dm.ubisoft.com/siege/prod/7907369fa863844fc1ae432a9ca0e610.jpg') no-repeat center;
+        display: flex;
+
+        img{
+            width: 36%;
+            object-fit: cover;
+            object-position: top;
+        }
+
+        &-content{
+            width: 64%;
+            padding: 36px;
+            color: #fbfbfb;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+
+            &-name{
+                display: flex;
+                width: 100%;
+                align-items: center;
+                gap: 12px;
+
+                img{
+                    width: 48px;
+                    object-fit: cover;
+                }
+
+                &-text{
+                    font-size: 36px;
+                    text-transform: uppercase;
+                    font-weight: 600;
+                }
+            }
+
+            &-specialties{
+                display: flex;
+                gap: 12px;
+            }
+
+            &-stats{
+                display: flex;
+                gap: 12px;
+            }
+        }
+    }
+
+    &-general{
+        margin-top: 24px;
+        display: flex;
+        justify-content: space-between;
+        gap: 24px;
+        
+        &-info{
+            width: 30%;
+            height: 128*4px;
+            background: rgb(78, 62, 67);
+            border-radius: 24px;
+            color: #fbfbfb;
+            padding: 24px;
+
+            b{
+                font-size: 18px;
+            }
+            &-title{
+                font-size: 24px;
+                text-transform: uppercase;
+                text-align: center;
+            }
+            &-content{
+                display: flex;
+            flex-direction: column;
+            gap: 8px;
+            text-overflow: clip;
+            }
+        }
+    }
+    &-loadout{
+        margin-top: 48px;
+        border-radius: 24px;
+
+        &-title{
+            text-align: center;
+            font-size: 36px;
+            text-transform: uppercase;
+            font-weight: 700;
+        }
+        &-content{
+            margin-top: 12px;
+            display: flex;
+            gap: 12px;
+            &-item{
+                color: #fbfbfb;
+                width: 25%;
+                &-title{
+                    height: 48px;
+                    background: #282c34;
+                    border-radius: 12px;
+                    line-height: 48px;
+                    text-align: center;
+                    text-transform: uppercase;
+                    font-weight: 600;
+                }
+                &-list{
+                    margin-top: 12px;
+                    display: flex;
+                    flex-direction: column;
+                    gap: 12px;
+
+                    &-itm{
+                        transition: all 175ms linear;
+                        display: flex;
+                        flex-direction: column;
+                        gap: 0;
+                        border-radius:8px;
+                        img{
+                            // border: 1px #282c34 solid;
+                            width: 100%;
+                            object-fit: contain;
+                            border-radius:8px 8px 0 0;
+                            height: 96px;
+                        }
+
+                        &-name{
+                            text-align: center;
+                            padding: 8px 0;
+                            width: 100%;
+                        }
+
+                        &:hover{
+                            scale: 1.05
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    &-bio{
+        margin-top: 48px;
+
+        &-title{
+            text-align: center;
+            font-size: 36px;
+            text-transform: uppercase;
+            font-weight: 700;
+        }
+
+        &-info{
+            margin-top: 24px;
+            display: flex;
+            flex-direction: column;
+            &-video{
+                width: 100%;
+                height: 128*5px;
+                border-radius: 24px 24px 0 0 ;
+            }
+
+            &-stats{
+                display: flex;
+                justify-content: space-between;
+                gap: 8px;
+                &-item{
+                    color: #fbfbfb;
+                    width: 100%;
+                    background: #282c34;
+                    padding: 24px;
+                    border-radius: 0 0 12px 12px;
+                    gap: 8px;
+                    &-title{
+                        text-transform: uppercase;
+                        text-align: center;
+                        font-size: 18px;
+                        font-weight: 500;
+                    }
+                    &-value{
+                        font-weight: 600;
+                        text-align: center;
+                        font-style: italic;
+                    }
+                }
+            }
+        }
+        &-main{
+            &-title{
+                text-align: center;
+                font-size: 24px;
+                font-weight: 600;
+                margin-top: 48px;
+
+                &-quote{
+                    text-align: end;
+                    margin-top: 18px;
+                    font-style: italic;
+                    font-weight: 600;
+                }
+                &-text{
+                    margin-top: 18px;
+                    display:flex;
+                    flex-direction: column;
+                    gap: 12px;
+                    p{
+                        font-size: 18px;
+                        font-weight: 400;
+                    }
+                }
+            }
+        }
+        &-psy{
+            &-title{
+                text-align: center;
+                font-size: 24px;
+                font-weight: 600;
+                margin-top: 36px;
+
+            }
+            &-text{
+                margin-top: 18px;
+                display:flex;
+                flex-direction: column;
+                gap: 12px;
+                font-size: 18px;
+                font-weight: 400;
+                p{
+                    font-size: 18px;
+                    font-weight: 400;
+                }
+            }
+            &-outer{
+                text-align: end;
+                margin-top: 12px;
+                font-size: 14px;
+                font-weight: 600;
+            }
+        }
+    }
+}
