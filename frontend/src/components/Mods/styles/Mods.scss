@@ -1,0 +1,58 @@
+.mods{
+    &-title{
+        margin-top: 48px;
+        font-size: 36px;
+        text-transform: uppercase;
+        font-weight: 600;
+        text-align: center;
+    }
+    &-items{
+        margin-top: 24px;
+        display:grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-auto-rows: 128*3px;
+        grid-gap: 24px;
+        box-sizing: border-box;
+        &-card{
+            height: 100%;
+            
+            display: flex;
+            flex-direction: column;
+            transition: all 275ms linear;
+            position: relative;
+            border-radius: 16px 16px 16px 16px;
+            //box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3), 0px 1px 3px 1px rgba(0, 0, 0, 0.15);
+            gap: 8px;
+      
+            img{
+              height: 85%;
+              min-height: 85%;
+              width: 100%;
+              object-fit: cover;
+              object-position: top;
+              background: #181a1f;
+              border-radius: 16px 16px 0 0;
+      
+            }
+      
+            &-name{
+              height: 15%;
+              text-align: center;
+              padding-top: 12px;
+              font-size: large;
+              text-transform: uppercase;
+              font-weight: 600;
+              background: #282c34;
+              color: aliceblue;
+              border-radius: 0 0 16px 16px;
+            }
+      
+            &:hover{
+              scale: 1.05;
+              &-icon{
+                background-color: aliceblue;
+              }
+            }
+          }
+    }
+}

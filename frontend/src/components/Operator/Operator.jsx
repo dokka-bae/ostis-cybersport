@@ -31,7 +31,7 @@ export default function Operator() {
     let{id} = useParams();
 
     const [operator, setTodos] = useState()
-    const [weapons, setWeapons] = useState()
+    const [weapons, setWeapons] = useState(undefined)
     const fetchOpers = async () => {
         const response = await fetch("http://localhost:8000/characters/{id}?operator_name="+id)
         const operator = await response.json()
@@ -41,6 +41,7 @@ export default function Operator() {
     const fetchWapons = async () => {
         const response = await fetch("http://localhost:8000/character/{weap_id}?ologs="+id)
         const weapons = await response.json()
+        if(weapons != null && weapons !== undefined)
         setWeapons(weapons)
     }
 
@@ -90,34 +91,34 @@ export default function Operator() {
                         <div className="operator-loadout-content-item">
                             <div className="operator-loadout-content-item-title">Основное</div>
                             <div className="operator-loadout-content-item-list">
-                                {weapons.first.map((item) => (
+                                {weapons !== undefined ? weapons.first.map((item) => (
                                     <Link className='operator-loadout-content-item-list-itm' to={'/weapons/' + item.id}>
                                         <img src={item.icon} alt="" className="operator-loadout-content-item-list-itm-img" />
                                         <div className="operator-loadout-content-item-list-itm-name">{item.name}</div>
                                     </Link>
-                                ))}
+                                )): null}
                             </div>
                         </div>
                         <div className="operator-loadout-content-item">
                             <div className="operator-loadout-content-item-title">Вторичное</div>
                             <div className="operator-loadout-content-item-list">
-                                {weapons.second.map((item) => (
+                                {weapons !== undefined ? weapons.second.map((item) => (
                                     <Link className='operator-loadout-content-item-list-itm' to={'/weapons/' + item.id}>
                                         <img src={item.icon} alt="" className="operator-loadout-content-item-list-itm-img" />
                                         <div className="operator-loadout-content-item-list-itm-name">{item.name}</div>
                                     </Link>
-                                ))}
+                                )) : null}
                             </div>
                         </div>
                         <div className="operator-loadout-content-item">
                             <div className="operator-loadout-content-item-title">Устройство</div>
                             <div className="operator-loadout-content-item-list">
-                                {weapons.device.map((item) => (
+                                {weapons !== undefined ? weapons.device.map((item) => (
                                     <Link className='operator-loadout-content-item-list-itm' to={'/weapons/' + item.id}>
                                         <img src={item.icon} alt="" className="operator-loadout-content-item-list-itm-img" />
                                         <div className="operator-loadout-content-item-list-itm-name">{item.name}</div>
                                     </Link>
-                                ))}
+                                )) : null}
                             </div>
                         </div>
                         <div className="operator-loadout-content-item">

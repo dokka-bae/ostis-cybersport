@@ -12,7 +12,7 @@ const Navigations = () => {
                 <Link to={'/weapons'}>Оружие</Link>
                 <Link to={'/maps'}>Карты</Link>
                 <Link to={'/characters'}>Оперативники</Link>
-                {/* <Link to={'/mods'}>Режимы</Link> */}
+                <Link to={'/mods'}>Режимы</Link>
             </div>
         </div>
     );

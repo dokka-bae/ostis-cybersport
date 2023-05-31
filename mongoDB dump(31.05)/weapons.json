@@ -1,0 +1,1441 @@
+[{
+  "_id": {
+    "$oid": "644930948fd05ba10d3ca766"
+  },
+  "id": "usp40",
+  "name": "USP 40",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7FxemzWRtlpAhK9MyKp1Gp/817cc25b6b7c3575dc1ba53a6a8170a9/USP40.png",
+  "img": "https://static.wikia.nocookie.net/rainbowsix/images/b/b9/R6S_USP40.png/revision/latest/scale-to-width-down/350?cb=20220525145616",
+  "overview": "Sharing the same above-average damage model with the Mk1 9mm but is worse in terms of magazine capacity and reload speed, the USP40 is a decent, middle-of-the-road pistol option that gets the job done.",
+  "in_game_desc": ".40 caliber semi-automatic pistol that has a low recoil, best used in mid-range combat.",
+  "real_name": [
+    "HK. 40 USP"
+  ],
+  "wtype": "second",
+  "type": "Пистолет",
+  "fire_modes": [
+    "полуавтоматический"
+  ],
+  "magazine_size": 13,
+  "user_id": [
+    "jackal",
+    "mira",
+    "oryx",
+    "brava"
+  ],
+  "damage_st": [
+    "22: 25",
+    "0-12 48"
+  ],
+  "rate_of_fire": "550 RPM",
+  "mobility": "50",
+  "max_ammunition": [
+    "12+48",
+    "13+60"
+  ],
+  "reload_time": [
+    "2.1",
+    "1.8"
+  ],
+  "ads": "200",
+  "ammo": ".40 S&W",
+  "ttk_1": [
+    "267ms (0-18m)",
+    "400ms (19+m)"
+  ],
+  "ttk_1r": [
+    "267ms (0-14m)",
+    "400ms (15-19m)",
+    "533ms (20+m)"
+  ],
+  "ttk_2": [
+    "267ms (0-13m)",
+    "400ms (14-19m)",
+    "533ms (20+m)"
+  ],
+  "ttk_2r": [
+    "400ms (0-16m)",
+    "533ms (14-19m)",
+    "667ms (20+m)"
+  ]
+},{
+  "_id": {
+    "$oid": "64494a408fd05ba10d3ca76d"
+  },
+  "id": "supershorty",
+  "name": "Super Shorty",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7Dq8LDmIxAveRqXM17orUW/8169927dba6976cee92cc53c7b0960aa/r6-operator-weapon-sa-supershorty.png",
+  "img": "https://static.wikia.nocookie.net/rainbowsix/images/2/23/R6S_Super_Shorty.png/revision/latest/scale-to-width-down/350?cb=20220525145607",
+  "overview": "The Super Shorty is not suited for anything beyond close-range engagements. Rather, it's better suited for utility purposes such as opening hatches, creating rotation holes, or quickly making lines of sight.",
+  "in_game_desc": "The high maneuverability of this shotgun makes up for its low capacity magazine.",
+  "real_name": [
+    "Remington 302"
+  ],
+  "type": "Дробовик",
+  "wtype": "second",
+  "fire_modes": [
+    "полуавтоматический"
+  ],
+  "magazine_size": 3,
+  "user_id": [
+    "recruit",
+    "castle",
+    "clash",
+    "gridlock",
+    "brava"
+  ],
+  "damage_st": [
+    "35 (x8) (0-12m)",
+    "15 (x8) (12+m)"
+  ],
+  "rate_of_fire": "85 RPM",
+  "mobility": "50",
+  "max_ammunition": [
+    "3+42",
+    "3+57"
+  ],
+  "reload_time": [
+    "2.1",
+    "1.8"
+  ],
+  "ads": "250ms",
+  "ammo": "Картечь 12 калибра",
+  "ttk_1": [],
+  "ttk_1r": [],
+  "ttk_2": [],
+  "ttk_2r": []
+},{
+  "_id": {
+    "$oid": "64494bfd8fd05ba10d3ca770"
+  },
+  "id": "camrs",
+  "name": "CAMRS",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4dBzqVVmnpv1DZi91LAnEN/e374b4ea289fc992280b943cdbb94d60/CAMRS.png",
+  "img": "https://static.wikia.nocookie.net/rainbowsix/images/d/d2/R6S_CAMRS.jpg/revision/latest?cb=20170212231707&path-prefix=ru",
+  "overview": "CAMRS — полуавтоматическая винтовка с высоким уроном и большим магазином, но и высокой отдачей. Будучи полуавтоматическим оружием, она неплохо сочетается с дульным тормозом, который позволяет заметно ослабить вертикальную отдачу. В прочем, уменьшить её ещё больше не позволяет предустановленный дробовик. Стоит отметить, что дробовик делает данную винтовку уникальной среди других. В то время как большинство снайперских винтовок имеют проблемы на короткой дистанции из-за своей полуавтоматической натуры, дробовик, помимо своей основной функции разрушения стен и полов, также может выступать в качестве оружия для коротких дистанций.",
+  "in_game_desc": "Полуавтоматическая винтовка. Дистанция: длинная. Урон: высокий. Множество модификаций.",
+  "real_name": [
+    "L1A1",
+    "SLR"
+  ],
+  "type": "Полуавтоматическая винтовка",
+  "fire_modes": [
+    "Полуавтоматический"
+  ],
+  "wtype": "first",
+  "magazine_size": 20,
+  "user_id": [
+    "buck",
+    "brava"
+  ],
+  "damage_st": [
+    "69 (до 25 метров)",
+    "38 (от 40 метров)"
+  ],
+  "rate_of_fire": "450 RPM",
+  "mobility": "50",
+  "max_ammunition": [
+    "20(+1)+140",
+    "20(+1)+180"
+  ],
+  "reload_time": [
+    "2.3",
+    "2"
+  ],
+  "ads": "200",
+  "ammo": "7.62-мм",
+  "ttk_1": [],
+  "ttk_1r": [],
+  "ttk_2": [],
+  "ttk_2r": []
+},{
+  "_id": {
+    "$oid": "64494e0a8fd05ba10d3ca771"
+  },
+  "id": "para308",
+  "name": "PARA-308",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ub8y2Cs5EYhVPfDWuVVkW/82ca131a41ee4ba2e0b75f2dc52ed9e3/PARA-308.png",
+  "overview": "PARA-308 — десантный карабин с высоким уроном, но посредственной скорострельностью. Главным недостатком является высокая вертикальная отдача. Довольно противоречивое оружие, потому что используется оперативником, практикующим агрессивный метод игры, но при этом не обладает высоким темпом ведения огня, из-за чего не может соперничать с ПП в ближнем бою.",
+  "in_game_desc": "Компактная винтовка на основе конструкции FAL, используемая BOPE. Убойная сила: высокая.",
+  "real_name": [
+    "DSA SA58 OSW"
+  ],
+  "type": "Штурмовая винтовка",
+  "wtype": "first",
+  "fire_modes": [
+    "Полуавтоматический",
+    "Автоматический"
+  ],
+  "magazine_size": 31,
+  "user_id": [
+    "capitao",
+    "brava"
+  ],
+  "damage_st": [
+    "48 (до 25 метров)",
+    "29 (от 35 метров)"
+  ],
+  "rate_of_fire": "650 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.3",
+    "2"
+  ],
+  "ads": "240",
+  "ammo": "7.62-мм"
+},{
+  "_id": {
+    "$oid": "647659c90e9ad73d9e3f2b7d"
+  },
+  "id": "p90",
+  "name": "P-90",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4nGrNspOvII2oS3lEMkg5x/2398a493c298bc654f97c58767aa40f3/P90.png",
+  "overview": "P90 — пистолет-пулемет с 50-зарядным магазином и очень высокой скорострельностью. Главными недостатками являются низкий урон и плохо контролируемая произвольная отдача.",
+  "in_game_desc": "ПП с увеличенным магазином, используемый GIGN. Пули с высокой начальной скоростью.",
+  "real_name": [
+    "P 90"
+  ],
+  "type": "Пистолет-пулемёт",
+  "wtype": "first",
+  "fire_modes": [
+    "Полуавтоматический",
+    "Автоматический"
+  ],
+  "magazine_size": 31,
+  "user_id": [
+    "solis"
+  ],
+  "damage_st": [
+    "48 (до 25 метров)",
+    "29 (от 35 метров)"
+  ],
+  "rate_of_fire": "970 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.3",
+    "2"
+  ],
+  "ads": "300",
+  "ammo": "9-19мм"
+},{
+  "_id": {
+    "$oid": "64765b7c0e9ad73d9e3f2b7e"
+  },
+  "id": "ita12l",
+  "name": "Ita 12L",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4Y6ziRzm9RiPii83fm8BV1/1f472744d2c2dec8d9206f4d8733d92c/ITA12L.png",
+  "overview": "The ITA12L is a shotgun featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Velvet Shell expansion. It is available for use by both GEO Operators and Solis.",
+  "in_game_desc": "Lightweight pump action 12-gauge shotgun with a 22 barrel. Packs a good punch.",
+  "real_name": [
+    "STF 12"
+  ],
+  "type": "Pump-action",
+  "wtype": "first",
+  "fire_modes": [
+    "Pump-action"
+  ],
+  "magazine_size": 31,
+  "user_id": [
+    "solis",
+    "mira",
+    "jackal"
+  ],
+  "damage_st": [
+    "50 (x8) (0-2m)",
+    "30 (x8) (12+m)"
+  ],
+  "rate_of_fire": "20 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.3",
+    "2"
+  ],
+  "ads": "150",
+  "ammo": "12.prm"
+},{
+  "_id": {
+    "$oid": "64765c8c0e9ad73d9e3f2b7f"
+  },
+  "id": "smg11",
+  "name": "SMG-11",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3WExw7Kepz9uAiWAbWW457/875fc631a3cf9fcc2849d9db2989cbcd/SMG-11.png",
+  "overview": "SMG-11",
+  "in_game_desc": "Small sized submachine gun with a high rate of fire. Lethal package in disciplined hands.",
+  "real_name": [
+    "MAC 11"
+  ],
+  "type": "Machine Pistol",
+  "wtype": "second",
+  "fire_modes": [
+    "Automatic"
+  ],
+  "magazine_size": 17,
+  "user_id": [
+    "solis",
+    "mira",
+    "jackal"
+  ],
+  "damage_st": [
+    "50 (x8) (0-2m)",
+    "30 (x8) (12+m)"
+  ],
+  "rate_of_fire": "1270 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.3",
+    "2"
+  ],
+  "ads": "275",
+  "ammo": ".45 ACP"
+},{
+  "_id": {
+    "$oid": "64765e780e9ad73d9e3f2b82"
+  },
+  "id": "556xi",
+  "name": "556 XI",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2dgpAeAWb3SkZV7rxDbVdQ/fa32323256b7c6f8a1977d3f71e7d4b2/556xi.png",
+  "overview": "The 556xi is an assault rifle featured in Tom Clancy's Rainbow Six Siege. It is available for use by Thermite and Osa.",
+  "in_game_desc": "Short range assault rifle, with low to medium stopping power depending on the caliber.",
+  "real_name": [
+    "M45 MEUSOC"
+  ],
+  "type": "Assault Rifle",
+  "wtype": "first",
+  "fire_modes": [
+    "Automatic",
+    "Semi-automatic"
+  ],
+  "magazine_size": 30,
+  "user_id": [
+    "osa",
+    "thermite"
+  ],
+  "damage_st": [
+    "47 (0-25m)",
+    "25 (35+m)"
+  ],
+  "rate_of_fire": "690 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.3",
+    "2"
+  ],
+  "ads": "400",
+  "ammo": "5.56×45mm NATO"
+},{
+  "_id": {
+    "$oid": "6476600b0e9ad73d9e3f2b85"
+  },
+  "id": "pdw9",
+  "name": "PDW 9",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4yYCuRnduMq35CTHfq6wwU/b7d49cdbcb05917e014c99efeaadd33b/PDW9.png",
+  "overview": "The PDW9 is a submachine gun featured in Tom Clancy's Rainbow Six Siege. It was introduced in the Operation Velvet Shell expansion pack and is available for use by Jackal and Osa.",
+  "in_game_desc": "9mm AR platform PDW, customized to offer Full-Automatic fire. Equipped with Drum magazine.",
+  "real_name": [
+    "UDP-9"
+  ],
+  "type": "Submachine Gun",
+  "wtype": "first",
+  "fire_modes": [
+    "Automatic",
+    "Semi-automatic",
+    "3-round burst"
+  ],
+  "magazine_size": 50,
+  "user_id": [
+    "osa",
+    "jackal"
+  ],
+  "damage_st": [
+    "34 (0-18m)",
+    "26 (28+m)"
+  ],
+  "rate_of_fire": "800 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "3.4s (Empty)",
+    "2.6s (Tactical)"
+  ],
+  "ads": "300",
+  "ammo": "9x19mm Parabellum"
+},{
+  "_id": {
+    "$oid": "647660c10e9ad73d9e3f2b86"
+  },
+  "id": "ppm",
+  "name": "PMM",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3y4LIwwm8YNQHAv8oOkWCK/a2375901cee34e68fa39c976d85de8aa/PMM.png",
+  "overview": "The PMM's high damage per bullet and decent ammo capacity not only makes this handgun deadly at close range encounters but it's also one of the more user-friendly hand cannons thanks to a decent recoil control, especially with the Muzzle Brake equipped, along with extremely fast reloads to boot.",
+  "in_game_desc": "9mm AR platform PDW, customized to offer Full-Automatic fire. Equipped with Drum magazine.",
+  "real_name": [
+    "PM"
+  ],
+  "type": "Handgun",
+  "wtype": "second",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 8,
+  "user_id": [
+    "osa",
+    "jackal"
+  ],
+  "damage_st": [
+    "63 (0-12m)",
+    "29 (22+m)"
+  ],
+  "rate_of_fire": "550 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "1.9s (Empty)",
+    "1.4s (Tactical)"
+  ],
+  "ads": "300",
+  "ammo": "9×18mm Makarov"
+},{
+  "_id": {
+    "$oid": "647666320e9ad73d9e3f2b89"
+  },
+  "id": "spear308",
+  "name": "SPEAR .308",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/29LjYuJ4s6yA8k9Uv2u28C/89ec812559e7d74b7c269279f4c46d92/Spear_.308.png",
+  "overview": "A Russian .308 bullpup prototype, composed almost entirely of polymers. It has impressive power and accuracy in a relatively compact format.",
+  "in_game_desc": "A Russian .308 bullpup prototype, composed almost entirely of polymers. It has impressive power and accuracy in a relatively compact format.",
+  "real_name": [
+    "Spear .308"
+  ],
+  "type": "Assault Rifle",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic",
+    "Automatic"
+  ],
+  "magazine_size": 30,
+  "user_id": [
+    "thunderbird",
+    "finka"
+  ],
+  "damage_st": [
+    "42 (0-25m)",
+    "26 (35+m)"
+  ],
+  "rate_of_fire": "700 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "3.3s (Empty)",
+    "2.4s (Tactical)"
+  ],
+  "ads": "400",
+  "ammo": "7.62×51mm NATO"
+},{
+  "_id": {
+    "$oid": "647666e20e9ad73d9e3f2b8a"
+  },
+  "id": "spas12",
+  "name": "SPAS-12",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/CyofBgipHq4RTafvPFWd4/bc3d0ecc871b70e57735855f852efacf/SPAS-15.png",
+  "overview": "The SPAS-12 is a powerful semi-automatic shotgun capable of taking out both Light and Medium Armored Operators with a single shell at its effective range, assuming at least four pellets hit the mark. An additional shell is required for Heavy Armored Operators, but as a semi-automatic shotgun, it will cycle the next shell relatively quickly. The SPAS-12 is not the fastest firing semi-auto shotgun, but thanks to exactly that, it is much easier to control than most others.",
+  "in_game_desc": "Lightweight customizable 12-gauge semi-automatic shotgun.",
+  "real_name": [
+    "SPAS-12"
+  ],
+  "type": "Shotgun",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 7,
+  "user_id": [
+    "thunderbird",
+    "oryx"
+  ],
+  "damage_st": [
+    "35 (x8) (0-4m)",
+    "27 (x8) (10-11m)",
+    "20 (x8) (20+m)"
+  ],
+  "rate_of_fire": "200 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "3.3s (Empty)",
+    "2.4s (Tactical)"
+  ],
+  "ads": "400",
+  "ammo": "12 Gauge Buckshot"
+},{
+  "_id": {
+    "$oid": "647668110e9ad73d9e3f2b8b"
+  },
+  "id": "bearing9",
+  "name": "BEARING 9",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4mdftEOh5Vu9KhhpgKLKrT/abedcc75868774018295ec2a08a7b3de/Bearing_9.png",
+  "overview": "The Bearing 9 has a high rate of fire and a rather large magazine capacity. This weapon features a high vertical recoil like most Machine Pistols, but is relatively easy to control thanks to its especially mild horizontal recoil, making it an excellent option for close to medium range engagements. However, long-range engagements will still require careful tap-firing.",
+  "in_game_desc": "Short to medium range submachine gun with high rate of fire and mobility. Best used in close quarters.",
+  "real_name": [
+    "BEARING 9"
+  ],
+  "type": "Machine Pistol",
+  "wtype": "second",
+  "fire_modes": [
+    "Semi-automatic",
+    "Automatic"
+  ],
+  "magazine_size": 25,
+  "user_id": [
+    "thunderbird",
+    "hibana",
+    "echo"
+  ],
+  "damage_st": [
+    "33 (0-18m)",
+    "22 (28+m)"
+  ],
+  "rate_of_fire": "1100 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.7s (Empty)",
+    "1.9s (Tactical)"
+  ],
+  "ads": "400",
+  "ammo": "9×19mm Parabellum"
+},{
+  "_id": {
+    "$oid": "647668c90e9ad73d9e3f2b8c"
+  },
+  "id": "q929",
+  "name": "Q-929",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2fRVszR5yGDHbV0AL8muso/0838dac90b66aa810daa49d36382fb64/Q-929.png",
+  "overview": "The QSZ-92 (Chinese: 92式手枪; Pinyin: Jiǔ Èr Shí Shoǔqiàng; Literally: Type 92 Handgun) is a semi-automatic pistol designed by Norinco. It is a recoil-operated, locked-breech and has a rotating barrel locking system. In game, The Q-929 deals high damage per shot, but has somewhat harsh recoil. To mitigate the recoil, it is advisable to attach the Muzzle Brake. An advantage that the Q-929 has over other high-damaging handguns like the PMM and M45 MEUSOC is its higher magazine capacity.",
+  "in_game_desc": "This 9mm semi-automatic pistol is highly accurate and lightweight with low recoil.",
+  "real_name": [
+    "Type 92 Handgun"
+  ],
+  "type": "Handgun",
+  "wtype": "second",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 10,
+  "user_id": [
+    "thunderbird",
+    "ying",
+    "lesion"
+  ],
+  "damage_st": [
+    "60 (0-12m)",
+    "30 (22+m)"
+  ],
+  "rate_of_fire": "550 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.1s (Empty)",
+    "1.8s (Tactical)"
+  ],
+  "ads": "200",
+  "ammo": "9×19mm Parabellum"
+},{
+  "_id": {
+    "$oid": "64766a7f0e9ad73d9e3f2b8f"
+  },
+  "id": "552commando",
+  "name": "552 Commandos",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1LT0N89YaOHvRwn3Pphr8K/02d4a3da9cda132d8201fd134f24fede/552_Commando.png",
+  "overview": "Packing a bigger punch than the AUG A2 in terms of damage, this assault rifle performs well at mid to long range engagements. Though like the 556XI and the L85A2, close-range engagements may be difficult due to its mediocre rate of fire. The 552 Commando has a slightly jumpy recoil compared to other low-fire-rate weapons, but is still well within the manageable range.",
+  "in_game_desc": "Medium range carbine, 30 round magazine, medium penetration at optimal range, 690 rounds/min.",
+  "real_name": [
+    "Type 92 Handgun"
+  ],
+  "type": "Assault Rifle",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic",
+    "3-round burst",
+    "Automatic"
+  ],
+  "magazine_size": 30,
+  "user_id": [
+    "grim"
+  ],
+  "damage_st": [
+    "48 (0-25m)",
+    "28 (35+m)"
+  ],
+  "rate_of_fire": "690 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "3.1s (Empty)",
+    "2.4s (Tactical)"
+  ],
+  "ads": "400",
+  "ammo": "5.56×45mm NATO"
+},{
+  "_id": {
+    "$oid": "64766b2f0e9ad73d9e3f2b90"
+  },
+  "id": "sgcqb",
+  "name": "SG-CQB",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5JoL3b36Fsztt9Q2XYmrbJ/dacec96948d3f8fe92914a69b9aac593/SG-CQB.png",
+  "overview": "The SG-CQB, it's a slow pump-action backed up with a high damage per pellet. This makes it a devastating shotgun to go up against, as the high damage and mild dropoff gives the SG-CQB an incredible range for a shotgun. It's also unique for having the ability to equip a Vertical Grip, despite it not actually contributing to the gun's controllability due to the low fire rate.",
+  "in_game_desc": "Compact pump action 12-gauge shotgun with close range stopping power. Favored by GIGN.",
+  "real_name": [
+    "SG-CQB"
+  ],
+  "type": "Shotgun",
+  "wtype": "first",
+  "fire_modes": [
+    "Pump-action"
+  ],
+  "magazine_size": 6,
+  "user_id": [
+    "grim",
+    "lion"
+  ],
+  "damage_st": [
+    "53 (x8) (0-5m)",
+    "26 (x8) (12+m)"
+  ],
+  "rate_of_fire": "85 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "3.1s (Empty)",
+    "2.4s (Tactical)"
+  ],
+  "ads": "250",
+  "ammo": "12 Gauge Buckshot"
+},{
+  "_id": {
+    "$oid": "64766c2f0e9ad73d9e3f2b91"
+  },
+  "id": "p229rc",
+  "name": "P229",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/76ja0RxqzHW9PpvWgpG7Sk/cb753b50b20fe67deaef54d8b2a46b54/P229.png",
+  "overview": "The SIG-Sauer P229 is similar to its full-sized counterpart, the P226 Mk 25, as both share a similar damage model. This makes it a viable close ranged quarters secondary. A downside is its rather mediocre magazine capacity for its damage model, topping up at 12 bullets with an additional bullet in the chamber, along with only four full magazines to work with in PVP.",
+  "in_game_desc": "A compact semi-automatic pistol with a large magazine. Best used at short to medium range.",
+  "real_name": [
+    "SG-CQB"
+  ],
+  "type": "Handgun",
+  "wtype": "second",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 12,
+  "user_id": [
+    "grim",
+    "goyo",
+    "hibana",
+    "echo"
+  ],
+  "damage_st": [
+    "51 (0-12m)",
+    "28 (22+m)"
+  ],
+  "rate_of_fire": "550 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.1s (Empty)",
+    "1.8s (Tactical)"
+  ],
+  "ads": "200",
+  "ammo": ".357 SIG"
+},{
+  "_id": {
+    "$oid": "64766d700e9ad73d9e3f2b95"
+  },
+  "id": "pof9",
+  "name": "POF-9",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1bhuAox7U6aHN6UriXsAry/3c213cd27f5f64ba01a29b42e5b24ac5/POF9.png",
+  "overview": "The POF-9 is an assault rifle featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Vector Glare expansion. It is available for use by Sens.",
+  "in_game_desc": "Fully automatic, easy to handle assault rifle with high capacity 9mm magazines.",
+  "real_name": [
+    "POF-9"
+  ],
+  "type": "Assault Rifle",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic",
+    "Automatic"
+  ],
+  "magazine_size": 50,
+  "user_id": [
+    "sens"
+  ],
+  "damage_st": [
+    "35 (0-25m)",
+    "21 (35+m)"
+  ],
+  "rate_of_fire": "740 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.1s (Empty)",
+    "1.8s (Tactical)"
+  ],
+  "ads": "400",
+  "ammo": "9×19mm Parabellum"
+},{
+  "_id": {
+    "$oid": "64766e2e0e9ad73d9e3f2b96"
+  },
+  "id": "417",
+  "name": "417",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5djkS4YtAtOF0vBmg0T60x/ea2b1ff7e5367e66c99bc7ad7e95bfe3/417.png",
+  "overview": "The 417 combines incredible damage, great controllability and a decent damage dropoff. Additionally, it has higher destructive power than assault rifles of its size, needing only around 5-10 shots to breach a hatch. Similar to the CAMRS, this DMR comes with a very tight hipfire, even more so when equipped with a Laser Sight and a Vertical Grip. This somewhat compensates for its lack of an Angled Grip.",
+  "in_game_desc": "Semi-automatic marksman rifle with limited magazine capacity. Favored by GIGN.",
+  "real_name": [
+    "HK 417"
+  ],
+  "type": "Marksman Rifle",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 20,
+  "user_id": [
+    "sens",
+    "lion"
+  ],
+  "damage_st": [
+    "69 (0-25m)",
+    "45 (40+m)"
+  ],
+  "rate_of_fire": "450 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "3.3s (Empty)",
+    "2.6s (Tactical)"
+  ],
+  "ads": "400",
+  "ammo": "7.62×51mm NATO"
+},{
+  "_id": {
+    "$oid": "64766ef50e9ad73d9e3f2b97"
+  },
+  "id": "sddp9mm",
+  "name": "SDP 9MM",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/Tgsdyz3XEqmgUYi9aZZgb/6755f4da7af7a7179ffab92acf8d477e/SDP_9mm.png",
+  "overview": "The SDP 9mm is highly versatile due to its above-average damage and high magazine capacity, able to kill Light and Medium Armored Operators outright in three body shots at its optimum range, while only able to down Heavy Armored Operators with the same number. Furthermore, this weapon alongside the PMM possesses the fastest tactical reload of all weapons taking only 1.4 seconds.",
+  "in_game_desc": "Special Duty Pistol, semi-automatic. A combination of Swiss engineering and American precision manufacturing.",
+  "real_name": [
+    "SDP 9MM Handgun"
+  ],
+  "type": "Handgun",
+  "wtype": "second",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 16,
+  "user_id": [
+    "sens"
+  ],
+  "damage_st": [
+    "47 (0-12m)",
+    "25 (22+m)"
+  ],
+  "rate_of_fire": "450 RPM",
+  "mobility": "45",
+  "reload_time": [
+    "2.2s (Empty)",
+    "1.4s (Tactical)"
+  ],
+  "ads": "200",
+  "ammo": "9×19mm Parabellum"
+},{
+  "_id": {
+    "$oid": "647670110e9ad73d9e3f2b98"
+  },
+  "id": "gonne6",
+  "name": "GONNE-6",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/23AlSVw8MwI1y3ZakEfqgW/c4561ae6e8da8db2627a146b8b55ee6c/GONNE-6_HUD_Icon__1_.png",
+  "overview": "The GONNE-6 fires a single explosive round that destroys gadgets and deals minimal damage to Operators (both Attackers and Defenders.) The explosive round of the GONNE-6 travels in a straight line once fired and detonates on impact. The hipfire spread of the weapon is entirely accurate and the projectile has no gravity affecting it, thus meaning it can travel until it hits any given surface.",
+  "in_game_desc": "Shoots explosive projectiles that detonate on impact with surfaces and destroy bulletproof gadgets.",
+  "real_name": [
+    "None"
+  ],
+  "type": "Hand Cannon",
+  "wtype": "second",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 1,
+  "user_id": [
+    "sens",
+    "zero",
+    "iana",
+    "amaru",
+    "gridlock",
+    "lion",
+    "finka",
+    "dokkaebi"
+  ],
+  "damage_st": [
+    "50"
+  ],
+  "rate_of_fire": "1250 RPM",
+  "mobility": "45",
+  "reload_time": [
+    "2.2s (Empty)",
+    "1.4s (Tactical)"
+  ],
+  "ads": "200",
+  "ammo": "Uld-5"
+},{
+  "_id": {
+    "$oid": "647674160e9ad73d9e3f2b9b"
+  },
+  "id": "ar33",
+  "name": "AR33",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/16U6xEvX8I5xQd9duveBLN/45d22960872cfa3fb6be9eb47fa0be4e/AR33.png",
+  "overview": "The AR33 is a decent, Jack-of-All-Trades primary weapon. However, its magazine capacity leaves something to be desired, as its rather underwhelming size of 25 rounds, plus the additional round in the chamber, are not particularly attractive qualities for a weapon. The recoil pattern is fairly manageable given its rate of fire.",
+  "in_game_desc": "Auto, semi, and burst capable assault rifle used by SAS, best in medium range encounters.",
+  "real_name": [
+    "P226 Mk 25"
+  ],
+  "type": "Assault Rifle",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic",
+    "Automatic",
+    "2-round burst"
+  ],
+  "magazine_size": 25,
+  "user_id": [
+    "flores"
+  ],
+  "damage_st": [
+    "41 (0-25m)",
+    "24 (35+m)"
+  ],
+  "rate_of_fire": "749 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "3.3s (Empty)",
+    "2.6s (Tactical)"
+  ],
+  "ads": "400",
+  "ammo": "5.56×45mm NATO"
+},{
+  "_id": {
+    "$oid": "647674c70e9ad73d9e3f2b9c"
+  },
+  "id": "sr25",
+  "name": "SR-25",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3H3sICdj6BK8LhtQPRd2aJ/26826ebba73e0e5fd503256d069f3256/SR-25.png",
+  "overview": "The SR-25 is a relatively subpar Marksman Rifle. It outputs a moderate single-shot damage of 61, comparable to that of the Mk 14 EBR. However, unlike the Mk 14, the SR-25 suffers from a steep damage dropoff. While manageable, the SR-25's vertical and horizontal recoil are noticeably inferior to other Marksman Rifles. Its also comes with the slowest full and tactical reload speeds of all DMRs.",
+  "in_game_desc": "Highly customizable semi-automatic rifle. Effective from long to medium range.",
+  "real_name": [
+    "SR 25"
+  ],
+  "type": "Marksman Rifle",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 20,
+  "user_id": [
+    "flores",
+    "blackbeard"
+  ],
+  "damage_st": [
+    "61 (0-25m)",
+    "35 (40+m)"
+  ],
+  "rate_of_fire": "450 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "3.5s (Empty)",
+    "2.9s (Tactical)"
+  ],
+  "ads": "400",
+  "ammo": "5.56×45mm NATO"
+},{
+  "_id": {
+    "$oid": "647675f30e9ad73d9e3f2b9d"
+  },
+  "id": "gsh18",
+  "name": "GSh-18",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5s5Q33j3MNcXf9lwfxfd7m/4eb3a6af1d431481b6ddcec44fbc7602/GSh-18.png",
+  "overview": "The GSh-18's slightly subpar damage output is the exact same as that of the P12 at all ranges, with one notable advantage being its high ammo capacity and reserve ammo.",
+  "in_game_desc": "Spetsnaz 9mm short range semi-automatic pistol, with low recoil and low damage.",
+  "real_name": [
+    "P12"
+  ],
+  "type": "Handgun",
+  "wtype": "second",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 18,
+  "user_id": [
+    "flores"
+  ],
+  "damage_st": [
+    "44 (0-12m)",
+    "24 (22+m)"
+  ],
+  "rate_of_fire": "550 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.3s (Empty)",
+    "2.1s (Tactical)"
+  ],
+  "ads": "200",
+  "ammo": "9×19mm Parabellum"
+},{
+  "_id": {
+    "$oid": "647677010e9ad73d9e3f2ba0"
+  },
+  "id": "p10roni",
+  "name": "P10 RONI",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7K86OBjL3zmYWt0ZvUcCLj/16a947334e39f27da177d787773593e4/r6-operator-weapon-smg-p10roni.png",
+  "overview": "The CAA Tactical RONI is a frame for Glock and similar pistols that adds a stock and some attachment rails. The in-game model is, contrary to the description, modelled after a CZ P-09 instead of a P-10 in a RONI frame. Like the real-life CZ-P9, the in-game RONI has a magazine capacity of 19. Unlike its real-life counterpart, it is fully automatic. In-game the P10 RONI is functionally similar to the Mx4 Storm. They share the same weak single shot damage and high rate of fire. However, its smaller magazine size of 15+1 rounds means that the magazine empties even faster. To balance, the P10 RONI has the fastest tactical reload of all SMGs at only 1.7 seconds. The recoil is much lower than that of the Mx4 Storm, especially in the horizontal aspect, meaning it is very easy to manage. Overall, the P10 RONI is a good option for close-to-medium-range combat with its low recoil and high rate of fire.",
+  "in_game_desc": "Fully automatic P10 pistol in a RONI carbine conversion.",
+  "real_name": [
+    "CZ-P9"
+  ],
+  "type": "Submachine Gun",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic",
+    "3-round burst",
+    "Automatic"
+  ],
+  "magazine_size": 15,
+  "user_id": [
+    "aruni",
+    "mozzie"
+  ],
+  "damage_st": [
+    "26 (0-18m)",
+    "19 (28+m)"
+  ],
+  "rate_of_fire": "980 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.3s (Empty)",
+    "2.1s (Tactical)"
+  ],
+  "ads": "300",
+  "ammo": "9×19mm Parabellum"
+},{
+  "_id": {
+    "$oid": "647678950e9ad73d9e3f2ba1"
+  },
+  "id": "mk14ebr",
+  "name": "MK 14 EBR",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6KIMqp5dA95z1RI3PrG9jv/eb939638169811a3fa858a44e6e5d97e/Mk_14_EBR.png",
+  "overview": "The Mk 14 EBR deals slightly less damage than the rest of the Marksman Rifles. However, one advantage of this marksman rifle holds is its forgiving damage drop off. This allows it to down Light Armored Operators at any range in under two shots, whilst still being able to take down the other two Armor Types with at least three shots at its minimum damage range. Also unlike most other DMRs, the Mk14 EBR is can be equipped with an angled grip, providing extra flexibility. Like the others, this DMR is useful in breaching hatches, requiring only 7 shots to break an unreinforced hatch.",
+  "in_game_desc": "Classic, hard-hitting .308 Battle Rifle in a lighter and shorter chassis. Effective in long-range battles, devastating short-range.",
+  "real_name": [
+    "Mk 14 EBR"
+  ],
+  "type": "Marksman Rifle",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 20,
+  "user_id": [
+    "aruni",
+    "dokkaebi"
+  ],
+  "damage_st": [
+    "60 (0-25m)",
+    "51 (35+m)"
+  ],
+  "rate_of_fire": "450 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "3.4s (Empty)",
+    "3.1s (Tactical)"
+  ],
+  "ads": "400",
+  "ammo": "7.62×51mm NATO"
+},{
+  "_id": {
+    "$oid": "647679310e9ad73d9e3f2ba2"
+  },
+  "id": "prd92",
+  "name": "PRB92",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/dl28J1HsE7mzhj66pmd5D/b8d8fc48d2dde13154047de94abbd8ca/PRB92.png",
+  "overview": "The Mk 14 EBR deals slightly less damage than the rest of the Marksman Rifles. However, one advantage of this marksman rifle holds is its forgiving damage drop off. This allows it to down Light Armored Operators at any range in under two shots, whilst still being able to take down the other two Armor Types with at least three shots at its minimum damage range. Also unlike most other DMRs, the Mk14 EBR is can be equipped with an angled grip, providing extra flexibility. Like the others, this DMR is useful in breaching hatches, requiring only 7 shots to break an unreinforced hatch.",
+  "in_game_desc": "Classic, hard-hitting .308 Battle Rifle in a lighter and shorter chassis. Effective in long-range battles, devastating short-range.",
+  "real_name": [
+    "Beretta 92"
+  ],
+  "type": "Handgun",
+  "wtype": "second",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 15,
+  "user_id": [
+    "aruni",
+    "dokkaebi"
+  ],
+  "damage_st": [
+    "42 (0-12m)",
+    "25 (22+m)"
+  ],
+  "rate_of_fire": "450 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.6s (Empty)",
+    "1.9s (Tactical)"
+  ],
+  "ads": "200",
+  "ammo": "9×19mm Parabellum"
+},{
+  "_id": {
+    "$oid": "64767b350e9ad73d9e3f2ba5"
+  },
+  "id": "9x19svn",
+  "name": "9×19VSN",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/akx58K4vXn1v2Q4C3sgrB/03425922f23cc8887b6e73c4d06ad387/9X19SVN.png",
+  "overview": "The 9×19VSN, this submachine gun possesses a rather unique damage model, with a moderately subpar rate of fire compensated by an above-average damage per shot, capable of taking down Light Armored Operators in three shots at optimal range. The weapon is easily controllable thanks to its low recoil and rate of fire, while a drawback is its relatively steep damage dropoff.",
+  "in_game_desc": "Close to mid-range 9mm submachine gun with high penetration. Favored by Spetsnaz.",
+  "real_name": [
+    "9×19VSN"
+  ],
+  "type": "Submachine Gun",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic",
+    "Automatic"
+  ],
+  "magazine_size": 30,
+  "user_id": [
+    "azami"
+  ],
+  "damage_st": [
+    "34 (0-18m)",
+    "20 (28+m)"
+  ],
+  "rate_of_fire": "750 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "3.2s (Empty)",
+    "2.3s (Tactical)"
+  ],
+  "ads": "300",
+  "ammo": "9×19mm Parabellum"
+},{
+  "_id": {
+    "$oid": "64767bfc0e9ad73d9e3f2ba6"
+  },
+  "id": "acs12",
+  "name": "ACS12",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/13z63kT1NLzn1U99o7WC4T/8655d3200f24b87246c36f2622603457/ACS12_PB.png",
+  "overview": "The ACS12 boasts the highest round capacity of any shotgun in the game. Though slow, the ACS12 also features a fully-automatic firing mode. In addition, the default iron sights are identical to the MP7 in that they obstruct vision minimally when aiming down sights. The weapon works like an automatic DMR thanks to the slug rounds, but the relatively slow TTK at distance calls for precision shots by aiming at the head of the target. However clocking in at 69 damage is enough to downright kill any armor type in two shots. Same as the TCSG12 and the BOSG.12.2, the slug rounds of the ACS12 have high destruction, making it useful for both creating rotations and lines of sight.",
+  "in_game_desc": "This 12-gauge combat shotgun is fully automatic and drum-fed. Great for blasting holes in walls and possesses surprisingly low recoil and muzzle rise.",
+  "real_name": [
+    "BOSG.12.2"
+  ],
+  "type": "Shotgun",
+  "wtype": "first",
+  "fire_modes": [
+    "Automatic"
+  ],
+  "magazine_size": 30,
+  "user_id": [
+    "azami",
+    "maestro",
+    "alibi"
+  ],
+  "damage_st": [
+    "69 (0-19m)",
+    "52 (41+m)"
+  ],
+  "rate_of_fire": "300 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.7s (Empty)",
+    "2.0s (Tactical)"
+  ],
+  "ads": "400",
+  "ammo": "12 Gauge Slugs"
+},{
+  "_id": {
+    "$oid": "64767cc70e9ad73d9e3f2ba7"
+  },
+  "id": "d50",
+  "name": "D-50",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6mMQRDsrComRFa7bC6cNkG/8cd17e545e3d28dcc11a040d000cfa16/D-50.png",
+  "overview": "A devastating handgun, each shot delivers a huge punch to any operators unlucky enough to be on its receiving end. Landing just two hits during CQC on all armor types are enough to kill them outright. The strong recoil and iron sights, however, limit its usage to close-range encounters. The weapon also has soft destruction capabilities and can be used to make small holes. This trait is especially useful to Valkyrie, who can establish lines of sight for her cameras. The Muzzle Brake is an extremely helpful attachment for the D-50, as it lowers the aggressive recoil kick by nearly half.",
+  "in_game_desc": ".50 caliber pistol, short to medium range hand gun with heavy stopping power and penetration.",
+  "real_name": [
+    "Desert Eagle"
+  ],
+  "type": "Handgun",
+  "wtype": "second",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 7,
+  "user_id": [
+    "azami",
+    "nokk",
+    "blackbeard",
+    "valkyrie"
+  ],
+  "damage_st": [
+    "71 (0-12m)",
+    "35 (22+m)"
+  ],
+  "rate_of_fire": "550 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "35 (22+m)",
+    "2.0s (Tactical)"
+  ],
+  "ads": "200",
+  "ammo": ".50 Action Express"
+},{
+  "_id": {
+    "$oid": "647683950e9ad73d9e3f2bad"
+  },
+  "id": "uzk50gi",
+  "name": "UZK50GI",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5WMIsPUWTXprZnAwctPsTt/f1c652b681e7e9ba6ba66bcd29e12a76/uzk50gi.png",
+  "overview": "The UZK50GI is a submachine gun featured in Tom Clancy's Rainbow Six Siege. Introduced in the High Calibre expansion, it is available for use by Thorn.",
+  "in_game_desc": "An Israeli made weapon adopted by many police and military organizations around the world, it is equipped with a full stock. Normally the Uz9 uses the Scope, Red Dot or Suppressor attachments.",
+  "real_name": [
+    "UZI"
+  ],
+  "type": "Submachine Gun",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic",
+    "Automatic"
+  ],
+  "magazine_size": 22,
+  "user_id": [
+    "thorn"
+  ],
+  "damage_st": [
+    "36 (0-18m)",
+    "21 (28+m)"
+  ],
+  "rate_of_fire": "700 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "35 (22+m)",
+    "2.0s (Tactical)"
+  ],
+  "ads": "200",
+  "ammo": ".50 GI"
+},{
+  "_id": {
+    "$oid": "647684170e9ad73d9e3f2bae"
+  },
+  "id": "m870",
+  "name": "M870",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2rkU6g4Rlg0e0U4rczWGTV/a51589a54c43f476d8eb984c0ea881e9/M870.png",
+  "overview": "One of the most powerful pump-action shotguns available, the M870 packs one hell of a punch at close range and can kill a victim outright if all pellets connect. This shotgun also has a quicker pump-action than the others.",
+  "in_game_desc": "12-gauge pump action shotgun. Favored by GSG 9. Large barrel allows for enhanced range.",
+  "real_name": [
+    "M870"
+  ],
+  "type": "Shotgun",
+  "wtype": "first",
+  "fire_modes": [
+    "Pump-action"
+  ],
+  "magazine_size": 6,
+  "user_id": [
+    "thorn"
+  ],
+  "damage_st": [
+    "60 (x8) (0-3m)",
+    "20 (x8) (12+m)"
+  ],
+  "rate_of_fire": "100 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "35 (22+m)",
+    "2.0s (Tactical)"
+  ],
+  "ads": "250",
+  "ammo": "12 Gauge Buckshot"
+},{
+  "_id": {
+    "$oid": "647684e50e9ad73d9e3f2baf"
+  },
+  "id": "1911tacops",
+  "name": "1911 TACOPS",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/189UukZ6fVnvQR6LJtLYry/6eec29603d5b7b0ca8cab6ac0ef083ac/1911_TACOPS.png",
+  "overview": "The 1911 TACOPS has a slightly weaker baseline damage than its Marine Corps counterpart and is more comparable to the .44 Mag Semi-Auto in terms of damage. As a handgun of above-average power, it can take down Light Armored Operators in 2 shots at its optimum range, with an additional bullet (3 shots) to kill Medium and Heavy Armored operators. Even after damage drop-off, this pistol can still kill both Light Armored and Medium Armored Operators in 3 shots, with Heavy Armored Operators requiring 4 in total.",
+  "in_game_desc": "This rugged .45 caliber pistol is a classic, but fitted with a custom grip.",
+  "real_name": [
+    "Colt 1911"
+  ],
+  "type": "Handgun",
+  "wtype": "second",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 8,
+  "user_id": [
+    "thorn",
+    "maverick"
+  ],
+  "damage_st": [
+    "55 (0-12m)",
+    "48 (22+m)"
+  ],
+  "rate_of_fire": "450 RPM",
+  "mobility": "45",
+  "reload_time": [
+    "2.2s (Empty)",
+    "1.9s (Tactical)"
+  ],
+  "ads": "200",
+  "ammo": ".45 ACP"
+},{
+  "_id": {
+    "$oid": "6476857d0e9ad73d9e3f2bb0"
+  },
+  "id": "c75auto",
+  "name": "C75 AUTO",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3wUuefwPjU705mZkTdJ9UH/8ccb11884cfa34c176ac5500af139177/C75_Auto.png",
+  "overview": "The C75 Auto features somewhat harsh recoil and fairly high rate of fire. It is distinctly different from other machine pistols as its customization is very limited: it can only be fitted with a suppressor and is limited to iron sights only. However, the weapon has a lower rate of fire than most other Machine Pistols making it somewhat more controllable as a machine pistol.",
+  "in_game_desc": "Fully automatic pistol that is effective at short range, and uses a spare mag as foregrip for more control.",
+  "real_name": [
+    "C75 Auto"
+  ],
+  "type": "Machine Pistol",
+  "wtype": "second",
+  "fire_modes": [
+    "Semi-automatic",
+    "Automatic"
+  ],
+  "magazine_size": 26,
+  "user_id": [
+    "thorn",
+    "kali",
+    "vigil"
+  ],
+  "damage_st": [
+    "35 (0-18m)",
+    "23 (28+m)"
+  ],
+  "rate_of_fire": "1000 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.7s (Empty)",
+    "1.9s (Tactical)"
+  ],
+  "ads": "275",
+  "ammo": "9×19mm Parabellum"
+},{
+  "_id": {
+    "$oid": "647688fe0e9ad73d9e3f2bb3"
+  },
+  "id": "sc3000k",
+  "name": "SC3000K",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7x7eDTm2NNpfGiFMrfQqEX/9898e74c780537be3ca6d88db32ea21e/F2000.png",
+  "overview": "The FN F2000 is a Belgian 5.56x45mm NATO bullpup assault rifle developed by FN Herstal, featuring modular parts. It fires from a closed bolt system and was designed with the same safety and trigger mechanisms as the earlier P90 submachine gun. The F2000 has many custom designed modular parts, including its own grenade launcher system (known as the FN EGLM) that it shares with the later SCAR series, and a custom fixed 1.6x magnification telescopic sight that can be used in low light conditions.",
+  "in_game_desc": "Forward ejecting bullpup rifle chambered in .300 Blackout, effective in short to medium range.",
+  "real_name": [
+    "F2000"
+  ],
+  "type": "Assault Rifle",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic",
+    "Automatic",
+    "3-round burst"
+  ],
+  "magazine_size": 25,
+  "user_id": [
+    "zero"
+  ],
+  "damage_st": [
+    "45 (0-25m)",
+    "29 (35+m)"
+  ],
+  "rate_of_fire": "800 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "3.4s (Empty)",
+    "2.6s (Tactical)"
+  ],
+  "ads": "400",
+  "ammo": ".300 Blackout"
+},{
+  "_id": {
+    "$oid": "647689a50e9ad73d9e3f2bb4"
+  },
+  "id": "mp7",
+  "name": "MP7",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3a4dgTWGdiJqALhtRp4pKy/f2568d3de3cfe7e4b53179e8653cd2a2/MP7.png",
+  "overview": "The MP7 is optimal at close range. The submachine gun boasts a blistering fire rate of 900 RPM and one of the highest damage outputs in the SMG class. To compensate, the MP7 has relatively high vertical recoil compared to other SMGs, and is unable to be customized with a grip. In addition, unlike most iron sights, the default MP7 iron sight obstructs vision minimally when aiming.",
+  "in_game_desc": "Close to mid-range submachine gun with high penetration. Favored by GSG 9.",
+  "real_name": [
+    "HK MP7"
+  ],
+  "type": "Submachine Gun",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic",
+    "Automatic",
+    "3-round burst"
+  ],
+  "magazine_size": 30,
+  "user_id": [
+    "zero"
+  ],
+  "damage_st": [
+    "32 (0-18m)",
+    "20 (28+m)"
+  ],
+  "rate_of_fire": "900 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "3.4s (Empty)",
+    "2.6s (Tactical)"
+  ],
+  "ads": "300",
+  "ammo": "HK 4.6×30mm"
+},{
+  "_id": {
+    "$oid": "64768af20e9ad73d9e3f2bb5"
+  },
+  "id": "57usg",
+  "name": "5.7 USG",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/tkYcSAJSe5yGkeUhzZqBO/e81feb86df4a7eb6951052bec26b6ed7/5.7_USG.png",
+  "overview": "The 5.7 USG is a handgun that sacrifices damage for having the highest magazine capacity of all handguns. It also has a decent hip fire accuracy. While its high capacity does increase room for error, it's relatively sub-par in close-range engagements due to its somewhat underwhelming damage. Zero's 5.7 USG comes pre-attached with a Suppressor, and cannot equip a different muzzle attachment.",
+  "in_game_desc": "Semi-automatic pistol with low-caliber, high-velocity rounds. Used by FBI SWAT.",
+  "real_name": [
+    "Five Seven"
+  ],
+  "type": "Handgun",
+  "wtype": "second",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 20,
+  "user_id": [
+    "zero",
+    "nokk",
+    "ash",
+    "castle",
+    "pulse",
+    "thermite"
+  ],
+  "damage_st": [
+    "32 (0-18m)",
+    "20 (28+m)"
+  ],
+  "rate_of_fire": "550 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.4s (Empty)",
+    "1.9s (Tactical)"
+  ],
+  "ads": "200",
+  "ammo": "FN 5.7×28mm"
+},{
+  "_id": {
+    "$oid": "64768d700e9ad73d9e3f2bba"
+  },
+  "id": "ak12",
+  "name": "AK-12",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7KAZZgnpqD07y47jVVXEuh/e0d7e67101f8f966aa6e1c59e835454f/AK-12.png",
+  "overview": "The AK-12 (formerly the АK-200) is the newest derivative of the AK-pattern series of assault rifles. The AK-12 is an assault rifle manufactured by Kalashnikov Concern (formerly Izhmash) that chambers the 5.45x39mm round. In-game, the AK-12 combines a high damage output with a fast 850 rounds per minute, resulting in some of the fastest TTKs amongst Assault Rifles. However, the gun's somewhat harsh vertical and horizontal recoil make it difficult to control when firing fully automatic.",
+  "in_game_desc": "Medium range assault rifle, medium to high stopping power based on caliber. Used by Spetznaz.",
+  "real_name": [
+    "AK 12"
+  ],
+  "type": "Assault Rifle",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic",
+    "3-round burst",
+    "Automatic"
+  ],
+  "magazine_size": 30,
+  "user_id": [
+    "ace"
+  ],
+  "damage_st": [
+    "40 (0-25m)",
+    "22 (35+m)"
+  ],
+  "rate_of_fire": "850 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "3.4s (Empty)",
+    "2.9s (Tactical)"
+  ],
+  "ads": "400",
+  "ammo": "5.45×39mm"
+},{
+  "_id": {
+    "$oid": "64768e570e9ad73d9e3f2bbb"
+  },
+  "id": "m1014",
+  "name": "M1014",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2pUiVbwNnQnDTesmWXktqW/f27c1fab9a354bb89cbe309a688f5e02/M1014.png",
+  "overview": "The M1014 can be considered an average semi-automatic shotgun. With a decent tube magazine capacity, fire rate and decent damage drop off, this weapon is reasonably viable in close-quarters situations, though not nearly as powerful as weapons like the SASG-12 or the FO-12. However, its difficult to accurately control the recoil of the weapon due to the semi-automatic nature of the shotgun. It is also not entirely advisable to ADS with this shotgun, as its recoil kick will make the gun obstruct line of sight when fired quickly. The recoil pattern is similar to the Super 90.",
+  "in_game_desc": "Medium range semi-automatic shotgun. Lethal at close range.",
+  "real_name": [
+    " SASG-12"
+  ],
+  "type": "Shotgun",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 7,
+  "user_id": [
+    "ace",
+    "castle",
+    "pulse",
+    "thermite"
+  ],
+  "damage_st": [
+    "34 (x8) (0-6m)",
+    "29 (x8) (9-10m)"
+  ],
+  "rate_of_fire": "200 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "3.4s (Empty)",
+    "2.9s (Tactical)"
+  ],
+  "ads": "400",
+  "ammo": "12 BM"
+},{
+  "_id": {
+    "$oid": "64768f200e9ad73d9e3f2bbc"
+  },
+  "id": "p9",
+  "name": "P9",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6Fd1cl17KA0CtgodEiiY6v/d0f145ea72f2aacbd04260ba7d8f1c74/P9.png",
+  "overview": "The P9 is a versatile handgun featuring moderate damage, adequately high capacity, and minimal recoil. It has the same damage as the GSh-18. A suppressed P9 is on par in terms of damage with an unsuppressed RG15 at 38 damage per bullet. It is notable for its splendid iron sights, which make the P9 easy to get on target.",
+  "in_game_desc": "9mm handgun favored by GIGN. Short to medium range. 16 round magazine.",
+  "real_name": [
+    "FN FNP"
+  ],
+  "type": "Handgun",
+  "wtype": "second",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 16,
+  "user_id": [
+    "ace"
+  ],
+  "damage_st": [
+    "45 (0-12m)",
+    "7 (22+m)"
+  ],
+  "rate_of_fire": "550 RPM",
+  "mobility": "45",
+  "reload_time": [
+    "2.1s (Empty)",
+    "1.8s (Tactical)"
+  ],
+  "ads": "200",
+  "ammo": "9x19mm Parabellum"
+}]

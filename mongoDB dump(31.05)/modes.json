@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6462a3441f7325842b25c209"
+  },
+  "id": "ranked",
+  "name": "Рейтинговая игра",
+  "preview": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2019/05/rainbow-six-siege-operators.jpg",
+  "modeType": [
+    "Bomb"
+  ],
+  "overview": "In Rainbow Six Siege, the ranked game mode follows a set of rules and features a ranking system that allows players to compete and progress through various ranks. Here are the basic rules and ranks of the ranked game mode:Matchmaking: Ranked matches involve a matchmaking system that tries to match players of similar skill levels against each other.Placement Matches: At the beginning of each season, players are required to play a series of placement matches. The outcome of these matches determines the initial rank they will be placed in for that season.Rank Structure: The ranking system consists of several tiers or ranks that players can achieve. The ranks, from lowest to highest, are as follows:Copper(Copper V, IV, III, II, I).Bronze (Bronze V, IV, III, II, I).Silver (Silver V, IV, III, II, I).Gold (Gold V, IV, III, II, I).Platinum (Platinum V, IV, III, II, I).Emerald (Emerald V, IV, III, II, I).Diamond (Diamond V, IV, III, II, I).Champion.Progression: Players earn or lose rank points based on the outcome of their matches. Winning matches grants points and promotes players to higher ranks, while losing matches results in point deductions and potential demotion to lower ranks.Skill Rating: Each player has a hidden skill rating called Matchmaking Rating (MMR), which determines the quality of opponents they face and the number of points gained or lost per match.Seasonal Resets: At the end of each season, ranks are partially reset. Players undergo new placement matches for the next season, and their rank will be adjusted based on their performance in those matches.Match Abandonment: Leaving a ranked match prematurely or being disconnected for an extended period can result in penalties, such as temporary bans or MMR loss.In Rainbow Six Siege's ranked game mode, here are some additional details regarding round count, round time, and other important aspects:Round Count: A ranked match consists of a maximum of 10 rounds, with each team taking turns attacking and defending. The first team to win six rounds emerges as the victor. In the event of a tie at 5-5, an overtime round may occur.Round Time: The default round time in ranked matches is 3 minutes for the Attackers and 3 minutes for the Defenders. However, the game allows players to customize the round time in custom matches.Bomb Game Mode: The ranked game mode primarily revolves around the Bomb game mode, where the attacking team aims to defuse a bomb while the defending team tries to prevent it. Each round, the objective sites may vary within the selected map.Operator Bans: Ranked matches introduce an operator ban phase before the match begins. Each team takes turns selecting an operator to ban, preventing the opposing team from using them throughout the match.Map Pool: The map pool for ranked matches consists of a curated selection of maps, periodically adjusted by the game developers. Not all maps available in the game are included in the ranked map pool.Elo Points: The ranking system in Rainbow Six Siege utilizes an Elo-based system to calculate player ratings. The number of Elo points gained or lost per match is influenced by factors such as the skill ratings of both teams and the round outcome.Matchmaking Parameters: The matchmaking system aims to create balanced matches by considering factors like player ranks, MMR, and region. As a result, players are typically matched with opponents of similar skill levels."
+},{
+  "_id": {
+    "$oid": "6463aa95b484bebd5f074036"
+  },
+  "id": "unranked",
+  "name": "Безрейтинговая игра",
+  "preview": "https://assetsio.reedpopcdn.com/r6-siege-stadium-map.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
+  "modeType": [
+    "Bomb"
+  ],
+  "overview": "In Rainbow Six Siege, alongside the ranked game mode, there is also an unranked game mode that provides a more casual and less competitive experience. Here are some details about unranked games:Matchmaking: Unranked matches use a similar matchmaking system to ranked matches, aiming to match players of similar skill levels.    Round Count: Unranked matches follow the same round count as ranked matches, consisting of a maximum of 10 rounds. The first team to win six rounds wins the match, and a tie at 5-5 can result in an overtime round.    Round Time: The round time in unranked matches is the same as in ranked matches, with a default duration of 3 minutes for both the Attackers and Defenders.    Game Modes: Unranked matches support all the standard game modes available in Rainbow Six Siege, including Bomb, Secure Area, and Hostage. The game mode for each match is randomly selected.    Operator Selection: Similar to ranked matches, unranked games include an operator selection phase before each round, where players choose their operators from the available roster.    Map Pool: Unranked matches typically feature the same map pool as ranked matches, which consists of a curated selection of maps chosen by the game developers. The map pool may change over time with updates and adjustments.    Skill Rating: Unranked matches do not affect players' ranked skill rating or MMR. They provide a more relaxed environment for players to practice, experiment with strategies, or enjoy the game without the pressure of ranked play.    Unranked games offer a middle ground between casual play and the competitive nature of ranked matches. They allow players to experience the core gameplay elements of Rainbow Six Siege while providing a more relaxed setting. It's important to note that some aspects of unranked matches, such as specific settings or map availability, may be subject to changes based on updates and community feedback."
+},{
+  "_id": {
+    "$oid": "6463aab1b484bebd5f074037"
+  },
+  "id": "quick",
+  "name": "Быстрая игра",
+  "preview": "https://dotesports.com/wp-content/uploads/2020/08/03121923/r6-siege-sledge-mute-thatcher-smoke.jpg",
+  "modeType": [
+    "Bomb",
+    "Secure area",
+    "Hostage"
+  ],
+  "overview": "In Rainbow Six Siege's Quick Match mode, the game is typically played as a best-of-three format. Here are the revised details:Match Format: Quick Match is played as a best-of-three series, meaning the first team to win two rounds out of three emerges as the winner of the match.Round Count: Each round in Quick Match is played on a single map, and the maximum round count per map is four. Therefore, a match can end in two or three rounds, depending on the outcome.Round Time: The round time in Quick Match is as follows:Attackers: 3 minutes.Defenders: 2 minutes.Game Modes: Quick Match supports all standard game modes: Bomb, Secure Area, and Hostage. The game mode for each match is randomly selected.Operator Selection: Before each round, players have the opportunity to select their operators from the available roster.Map Pool: Quick Match features a diverse map pool that includes a wide variety of maps available in Rainbow Six Siege."
+},{
+  "_id": {
+    "$oid": "6463aac0b484bebd5f074038"
+  },
+  "id": "thunt",
+  "name": "Антитеррор",
+  "preview": "https://cdn.mos.cms.futurecdn.net/4ee07addc12fd213e1606dbded5953a5.jpg",
+  "modeType": [
+    "Bomb",
+    "Secure area",
+    "Hostage"
+  ],
+  "overview": "In Rainbow Six Siege, the \"Terrorist Hunt\" (T-Hunt) game mode offers a single-player or cooperative experience where players can practice their skills, test new operators, or warm up before multiplayer matches. Here are some details about the T-Hunt mode:Objective: In T-Hunt, the objective is to eliminate a group of AI-controlled terrorists on a map. The terrorists are hostile NPCs and are not player-controlled.    Gameplay Modes: T-Hunt offers several gameplay modes to choose from, including Classic, Extract Hostage, Protect Hostage, and Disarm Bomb. Each mode has its specific objectives and challenges.    Difficulty Levels: T-Hunt allows players to select the difficulty level, ranging from Easy, Normal, Hard, Realistic, to Lone Wolf. The higher the difficulty, the more challenging the AI terrorists become.    Maps: T-Hunt is available on a wide selection of maps from the game's map pool. These maps may differ from the ranked or unranked map pools and can include both indoor and outdoor environments.    Lone Wolf or Co-op: Players can choose to play T-Hunt alone (Lone Wolf) or team up with friends in cooperative mode to tackle the AI terrorists together.    Time Limit: There is a time limit for completing the T-Hunt mission. The default time limit is 10 minutes, but it can vary depending on the specific mode and difficulty level chosen.    Renown and XP: Playing T-Hunt allows players to earn renown (in-game currency) and gain experience points (XP) to level up their profile and operators.    T-Hunt provides a valuable training ground for players to refine their shooting skills, learn maps, experiment with different operators and strategies, and familiarize themselves with the game mechanics. It's a great way to practice and improve before diving into multiplayer matches."
+}]

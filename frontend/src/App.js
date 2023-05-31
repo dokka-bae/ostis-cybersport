@@ -9,6 +9,9 @@ import WeaponsItem from './components/Weapons/WeaponsItem';
 import Maps from './components/Maps/Maps';
 import MapItem from './components/Maps/MapItem';
 
+import Mods from './components/Mods/Mods';
+import ModItem from './components/Mods/ModItem';
+
 function App() {
   
   return (
@@ -20,6 +23,8 @@ function App() {
           <Route path='weapons/:weapId' element={<WeaponsItem/>}/>
           <Route path='maps' element={<Maps/>}/>
           <Route path='maps/:mapId' element={<MapItem/>}/>
+          <Route path='mods' element={<Mods/>}/>
+          <Route path='mods/:modId' element={<ModItem/>}/>
       </Routes>
   );
 }

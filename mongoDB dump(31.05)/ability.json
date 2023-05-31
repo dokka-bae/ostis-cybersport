@@ -1,0 +1,301 @@
+[{
+  "_id": {
+    "$oid": "6476407e0e9ad73d9e3f2b3f"
+  },
+  "id": "kludge",
+  "name": "БОТ 'Kludge'",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7CeEFqxBVGt3yXGCrE8TZq/9bd38a7211fdbbaea9c43794bd6f4925/r6s-operator-ability-brava.png",
+  "deviceEvaluation": "<br>Device: Kiba Barrier</br><br>Operator:Specialist Kana 'Azami'</br><br>Evaluation Lead: Dr. Elena 'Mira' Álvarez, Director of R&D.</br>This sticky canister has been long overdue for a redesign. Collaborating with Azami on the updated version reminded me of why it was created in the first place. Sure, we have sturdier shields, but for mobility and versatility in a protective device? You can't get better than the Kiba Barrier.I had my doubts about weaponizing the casing, but Azami was persuasive. While deployment saves essential time, activating the wrist sheath requires precision. Mastering the maneuver requires paying close attention to your fingers. That is, if you're interested in keeping them. Compound L-7 and Solution K-13 remain under development, so l've been spending most of my time ensuring the phase transition from a gaseous to a solid state is stable. The resulting substance is bulletproof and can be deployed on almost any surface, providing quick cover when you need it. Though not blast resistant, the barrier can withstand limited melee assault. With its ability to quickly repair holes in walls and floors, the Kiba Barrier provides enough time to reach cover and assess the battlefield. I can't think of anything more appropriate for Azami than a device that literally pulls a shield from thin air. Quick thinking and creativity are your greatest allies when utilizing the Kiba Barrier.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2NPnWceJXOniZoNibJLmo4/6cb46cd3df362c459ec6854d59791b4f/Brava-gameplay.mp4",
+  "userId": [
+    "brava"
+  ]
+},{
+  "_id": {
+    "$oid": "6476409d0e9ad73d9e3f2b40"
+  },
+  "id": "SPEC-IO",
+  "name": "SPEC-IO",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6yJdnB2YJGY5lMh9mmKIQT/62bb946eb6bd2583b1c78255cab72ac9/r6s-operator-ability-solis.png",
+  "deviceEvaluation": "<br>SPEC-IO Electro-Sensor</br><br>Operator:Specialist Ana 'Solis' Diaz'</br><br>Evaluation Lead: Santiago 'Flores' Lucero</br>(Comment_E Álvarez: Find requested prototype in attached parcel. Glad to see the changes I was making to IQ's device won't go to waste. Contact if you need me. Mira.)",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/15NxRqdvoBQha0QoLisGhq/50d006715a44706c563a052df0559440/SOLIS_GAMEPLAY.mp4",
+  "userId": [
+    "solis"
+  ]
+},{
+  "_id": {
+    "$oid": "647640a60e9ad73d9e3f2b41"
+  },
+  "id": "Talon8",
+  "name": "Talon8",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/71VBmyDtBAx788WnNJfEgo/1e6d78a81f8dc381bf4244b87970038f/r6s-operator-ability-osa.png",
+  "deviceEvaluation": "<br>Talon-8 Clear Shield</br><br>Operator:Specialist Anja 'Osa' Jankovic'</br><br>Evaluation Lead: Specialist Monika 'IQ' Weiss</br>I'm not sure why Mira wanted a second opinion on the Talon-8; stellar, and her designs have been a staple in The Program ever since Nighthaven's arrival. Still, I was excited to get my hands on another great piece of equipment.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/lIxFU0iz4RNgSsLlwkuoy/8abdee0f1a6fb3bcab59e916bc6fb287/Y6S3-Reveal-Osa.mp4",
+  "userId": [
+    "osa"
+  ]
+},{
+  "_id": {
+    "$oid": "647640af0e9ad73d9e3f2b42"
+  },
+  "id": "Kona",
+  "name": "Kona",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/67J9QnmuA4TMI3rBxoA3Jz/4ec42d8c1bb61dadc5f36893f93142e8/r6s-operator-ability-thunderbird.png",
+  "deviceEvaluation": "<br>Kona Healing Station</br><br>Operator:Specialist Mina 'Thunderbird' Sky</br><br>Evaluation Lead:  Lera 'Finka' Melnikova</br>Upon examination I will say I'm impressed with both the creativity and technical ability Sky used to put this healing station together. Finding chemicals with biocompatibility and bioabsorbable properties was critical to the success of the polyurethane foam capsules. The sensor combined with its 360 directional rotation allows the station to distribute the agent unassisted, enabling the operator to focus on other tasks and strategic placement. The Kona healing station is almost as good as having an extra member on the team. The addition of chitosan with the pressure from the expanding foam can seal a bigger wound than medical cyanoacrylate adhesives. I think Doc will be excited at the prospect of no longer needing to extract fibers from healing wounds.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/74yCF49kcIt7viR8f4a0Xf/fc19df5ba815bf718af2ad2d84ce86c9/r6s-operators-ability-thunderbird.mp4",
+  "userId": [
+    "thunderbird"
+  ]
+},{
+  "_id": {
+    "$oid": "647640b80e9ad73d9e3f2b43"
+  },
+  "id": "kawan",
+  "name": "Kawan Hive Launcher",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2Ws6ae13XPN5rcsw0WVt3d/d338fc7e22de9c2f620137d85ac4e29b/r6s-operator-ability-grim.png",
+  "deviceEvaluation": "<br>Kawan Hive Launcher</br><br>Operator:Agent Charlie Tho 'Grim' Keng Boon</br><br>Evaluation Lead:  Agent Anja 'Osa' Jankovie, QCR Lead</br>To fully explain the Kawan Hive Launcher, I would have to break it into parts. While the launcher has been adapted from a generic model, the projectile has moved beyond robotic process automation and into hyper-automation.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4n5lXlCh3BqR65tGQWTbB1/04bb598cbc50e773144426faafc380a0/r6s-y7s3-gadget-grim.mp4",
+  "userId": [
+    "grim"
+  ]
+},{
+  "_id": {
+    "$oid": "647640bf0e9ad73d9e3f2b44"
+  },
+  "id": "moy",
+  "name": "Moy",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4iEpghBKHF6bcQxAxRKsYU/0291dc89b6f7730720d1ea5650392a81/r6s-operator-ability-sens.png",
+  "deviceEvaluation": "<br>R.O.U. Protection System</br><br>Operator:Specialist Neon 'Sens' Neoma</br><br>Evaluation Lead:  Dr. Elena 'Mira' Alvarez, Director of R&D</br>Working with Specialist Neon 'Sens' Ngoma is the most fun I had in a while. Their questions, suggestions and direct insight on what they were hoping to achieve allowed me to push this prototype further than what they came in with. Orchestrating the battlefield by influencing the senses is not a novel concept, but the way they view it is on another level.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7bptvvvDwiqaEnROQx2Ysi/e7915878db864c627b6ea033bc96ebb3/r6s-y7s2-gadget-sens.mp4",
+  "userId": [
+    "sens"
+  ]
+},{
+  "_id": {
+    "$oid": "647640c90e9ad73d9e3f2b45"
+  },
+  "id": "charge",
+  "name": "Charge",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1z7eSI5D8IRIOHi0PJu4yq/3c4a273098a840957a248583f73fa8ff/r6s-operator-ability-flores.png",
+  "deviceEvaluation": "<br>RCE-Ratero Charge</br><br>Operator:Specialist Specialist Santiago 'Flores' Lucero</br><br>Evaluation Lead:Specialist Eliza 'Ash' Cohen</br> don't usually get involved in these evaluations but considering how nervous Lucero was at the idea of a stranger handling his toys, I assured him l'd oversee the process. That being said, I enlisted the help of Specialists Elena 'Mira' Alvarez and Shuhrat 'Fuze' Kessikbayev, and I'm confident that they'll take good care of the RCE-Ratero. As they worked together, I watched them turn a rudimentary but efficient tool into something worthy of tactical operations. The base function remains, and Lucero will still be able to remotely pilot his favorite device, but as Fuze told me with so much enthusiasm it will now be much more reliable.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3EX02beEcaVkR6Xg1xxsDq/5e3633f4b5e0cef77f08865cb091f54b/r6s-operators-ability-flores.mp4",
+  "userId": [
+    "flores"
+  ]
+},{
+  "_id": {
+    "$oid": "647640d00e9ad73d9e3f2b46"
+  },
+  "id": "surya",
+  "name": "Surya",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4hLJAAVKrf50wosG0471od/cde1867daf863c03754969f159ac00de/r6s-operator-ability-aruni.png",
+  "deviceEvaluation": "<br>Surya Laser Surya Gate</br><br>Operator:Specialist Apha 'Aruni' Tawanroong</br><br>Evaluation Lead:Specialist Emmanuelle 'Twitch' Pichon, Project Lead Defense R&D</br>As requested, the Surya Laser Surya Gate has been optimized. The original was less a weapon and more of an alarm system utilizing a laser grid to detect intrusions via specific apertures. When I told Aruni I could adapt some of the tech from Adriano 'Maestro' Martello's CLE-V to enhance her Surya Gate's defensive capabilities, she was enthusiastic.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2QVB4CPVu1zECICTbZHEu7/6f95d8ce0c57838595404792af32663a/r6s-operators-ability-aruni.mp4",
+  "userId": [
+    "aruni"
+  ]
+},{
+  "_id": {
+    "$oid": "647640db0e9ad73d9e3f2b47"
+  },
+  "id": "kiba",
+  "name": "Kiba",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1UDhKrAXnm0thdHhsTTAyo/03f6b0b4879208d963e6d551b86ad3a6/r6s-operator-ability-azami.png",
+  "deviceEvaluation": "<br>Kiba Barrier</br><br>Operator:Specialist Kana 'Azami' Fujiwara</br><br>Evaluation Lead:Dr. Elena 'Mira' Alvarez, Director of R&D</br>As requested, the Surya Laser Surya Gate has been optimized. The original was less a weapon and more of an alarm system utilizing a laser grid to detect intrusions via specific apertures. When I told Aruni I could adapt some of the tech from Adriano 'Maestro' Martello's CLE-V to enhance her Surya Gate's defensive capabilities, she was enthusiastic.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/17VGFwyIHL8Hbd2FoulCTS/2482a99cf2bf99c3595a5a048ce431f5/AzamiLoadout.mp4",
+  "userId": [
+    "azami"
+  ]
+},{
+  "_id": {
+    "$oid": "647640e80e9ad73d9e3f2b48"
+  },
+  "id": "razorbloom",
+  "name": "Razorbloom",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/38hUQdWTb1vgs0Yg8eQHFC/0d7f05420068a41392342a1b38c57c2e/r6s-operator-ability-thorn.png",
+  "deviceEvaluation": "<br>Razorbloom Shell/Proximity Charge Device</br><br>Operator: Specialist Brianna 'Thorn' Skehan</br><br>Evaluation Lead:Specialist Brianna 'Thorn' Skehan</br>(Comment_E. Alvarez: When Brianna told me how she used to defend her food from the greedy hands of her brothers with a table fork, I was immediately inspired. I wanted to design something severely punishing to anyone foolish enough to encroach on her space. But to have maximum effectiveness in the field it had to be throwable, proximity-activated, and time-sensitive. The trick was incorporating high-velocity, multi-directional projectiles in a dormant shell. - Mira.)",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6OEYC1Z4x9ZWYazokqvT9K/31a68cea5f9682da117fd306a57c97a1/r6s-y6s4-gadget-thorn.mp4",
+  "userId": [
+    "thorn"
+  ]
+},{
+  "_id": {
+    "$oid": "647640f30e9ad73d9e3f2b49"
+  },
+  "id": "argus",
+  "name": "Argus",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6h4hyVSzG8IwAmEl1Objrd/6e51e64eeffcc68746b8ff59445fb103/r6s-operator-ability-zero.png",
+  "deviceEvaluation": "<br>ARGUS Launcher</br><br>Operator: Specialist Samuel Leo 'Zero' Fisher</br><br>Evaluation Lead:Dr. Elena 'Mira' Alvarez, Director of R&D</br>I have to hand it to him - Specialist Samuel Leo 'Zero' Fisher doesn't do things the usual way. He seems to always be on top of things, so l'm not surprised this extends to his equipment. I'd like to know how he always seems to know what's going on, and how his coffee mug is always full.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1NrWh5QdVZ4ApXwFpqS2Qu/9a8d66b51d62640af705534e08450405/r6s-operators-ability-zero.mp4",
+  "userId": [
+    "zero"
+  ]
+},{
+  "_id": {
+    "$oid": "647641000e9ad73d9e3f2b4a"
+  },
+  "id": "selma",
+  "name": "Selma",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2sjKOnwHeOX2xn3iIpja2A/e265f675c905ac25c23ed11fc85589bb/r6s-operator-ability-ace.png",
+  "deviceEvaluation": "<br>S.E.L.M.A. Aqua Breacher</br><br>Operator: Specialist Havard 'Ace' Haugland</br><br>Evaluation Lead: Specialist Monika 'IQ' Weiss</br>I've reviewed my fair share of climbing equipment, Ace's S.E.L.M.A. surprised me. Auto-belayers have some application in civilian/hobby spaces but need to be hand-placed - that's where the S.E.L.M.A. is unique.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4N7ZedDh9aXQbE9YERnIEa/d49e6cf19c9f3f7b705fea1e13bfde1b/r6s-operators-ability-ace.mp4",
+  "userId": [
+    "ace"
+  ]
+},{
+  "_id": {
+    "$oid": "6476410d0e9ad73d9e3f2b4b"
+  },
+  "id": "banshee",
+  "name": "Banshee",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/49ixqWhGgjvHu0Ay8JzeSH/c6a3fe584847850186e15c7fb4244385/r6s-operator-ability-melusi.png",
+  "deviceEvaluation": "<br>Banshee Sonic Defense</br><br>Operator:  Specialist Thandiwe 'Melusi' Ndlovu</br><br>Evaluation Lead:  Elzbieta 'Ela' Bosak</br>Don't get me wrong, I'm flattered you asked me to look over Melusi's gadget. Next time though, I'm going to need at least a month's notice and for you to keep Mr. 'I'm the sound guy' away from my notes. He came in on Day 2 and started going on about how my testing procedure wasn't rigorous enough and how a layman's understanding of the topic only contributes to society's general level of ignorance. Charming. Anyway, I handed him one of the emitters and hit him with a 160 dB burst. He left me alone after that.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7zBNFGgeNVIKeRmlNwb8QP/ad0954c93df65993c4bdcac6905b90a9/r6s-operators-ability-melusi.mp4",
+  "userId": [
+    "melusi"
+  ]
+},{
+  "_id": {
+    "$oid": "647641160e9ad73d9e3f2b4c"
+  },
+  "id": "remahdash",
+  "name": "Remahdash",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3dM2B3qCdU0woydIbiy2xn/55aa99443002ad794d3f78dada26d035/r6s-operator-ability-oryx.png",
+  "deviceEvaluation": "<br>Remah Dash</br><br>Operator:   Specialist Saif 'Oryx' Al Hadid</br><br>Evaluation Lead:   Specialist Lera 'Finka' Melnikova</br>When Mira showed me videos of Saif's standing vertical jump, I was astounded. I know athletes who have pushed themselves to incredible lengths, but I've never met someone in person - short of Olympians - who could perform feats so clearly contraindicated by human physiology. I had to know how his body worked, and luckily Mira agreed to give me the mandate.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3VqNC3mg3uRqXOqax2a52A/438a8f9c68aee83c3b5fa318b3039c1d/r6s-operator-video-ability-oryx.mp4",
+  "userId": [
+    "oryx"
+  ]
+},{
+  "_id": {
+    "$oid": "6476411e0e9ad73d9e3f2b4d"
+  },
+  "id": "geminireplicator",
+  "name": "Geminireplicator",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/K8E4EHWbD8wTjVqro6wVl/62339b2fbe1d3a2319dcd320f7a0b070/r6s-operator-ability-iana.png",
+  "deviceEvaluation": "<br> Gemini Replicator</br><br>Operator:   Specialist Nienka 'Iana' Meijer</br><br>Evaluation Lead:   Specialist Masaru 'Echo' Enatsu</br>Because Twitch and I fine-tuned Specialist Aria 'Alibi' de Luca's Prisma display, Mira thought I would enjoy testing Iana's hovering projectors. Spoiler alert: they don't use the same tech and these drones are way more fancy than mine. Sure, Iana and I worked in the same field, but years apart - she's current-gen, while I'm more like the grandpa of aeronautics at this point. Hey, Mira, is this what it's like to feel old?",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4PFjj9dtbO18r5MzEvUmkw/c8998802f9a234d737c57e2f9562cec9/r6s-operator-video-ability-iana.mp4",
+  "userId": [
+    "iana"
+  ]
+},{
+  "_id": {
+    "$oid": "647641250e9ad73d9e3f2b4e"
+  },
+  "id": "magnet",
+  "name": "Magnet",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1IKNZzLv63AJd9vlbXj3Bo/883371432ffb22e5bf35bc82dd706384/Mag-net_System.png",
+  "deviceEvaluation": "<br> Magnetic Neutralizing Electronic Targeting (Mag-NET) System</br><br>Operator:Specialist Ngugi Muchoki 'Wamai' Furaha</br><br>Evaluation Lead:Emmanuelle 'Twitch' Pichon, Project Lead Defense R&D</br>Specialist Jaimini Kalimohan (Kali) Shah came to see me. Apparently Specialists Ngugi Muchoki (Wamai) Furaha and Shuhrat (Fuze) Kessikbayev have been spending a lot of time in the shoot house, testing various strategies against each other. Kali was concerned that Fuze might be getting too familiar with her proprietary technology. So let's do just that.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5kxaSFqkb7CelAi2FARYY5/1bba883ffc4f172458019f87afa32d55/operator-video-ability-wamai.mp4",
+  "userId": [
+    "wamai"
+  ]
+},{
+  "_id": {
+    "$oid": "6476412e0e9ad73d9e3f2b4f"
+  },
+  "id": "lvexplosivelance",
+  "name": "Lvexplosivelance",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/75eebt48ELO4eGGdIMVMpY/9533c7dc8f36651f5b5ad50c8ccb6c5a/LV_Explosive_Lance.png",
+  "deviceEvaluation": "<br> Low Velocity (LV) Explosive Lance</br><br>Operator:Specialist Jaimini Kalimohan 'Kali' Shah</br><br>Evaluation Lead:Specialist Mike 'Thatcher' Baker</br>Finally, another honest piece of hardware makes its way into my hands. Figures we had to go to the other side of the world to find it.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/79QUWQqjpV0W3jq4L6PF23/85511ff11f11164bcba4c39259dfc8ed/operator-video-ability-kali.mp4",
+  "userId": [
+    "kali"
+  ]
+},{
+  "_id": {
+    "$oid": "647641360e9ad73d9e3f2b50"
+  },
+  "id": "garrahook",
+  "name": "Garrahook",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3WejtMAtiITfpjDMuq6j4t/b52e58da6b2625839aa23f940c8e6639/Garra-Hook.png",
+  "deviceEvaluation": "<br>Garrahook</br><br>Operator: Tina Lin 'Frost' Tsang</br><br>Evaluation Lead: Specialist Elena 'Mira' Maria Alvarez</br>Specialist Quispe was grateful for our help and made us juane de chonta as thanks. It was so delicious that I find I'm a little jealous of all her years spent in the jungle.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/33DITOPKmOO9duwLqMiYkI/de77c5a73057c51e73dab2843d938556/operator-video-ability-amaru.mp4",
+  "userId": [
+    "amaru"
+  ]
+},{
+  "_id": {
+    "$oid": "6476413e0e9ad73d9e3f2b51"
+  },
+  "id": "volcan",
+  "name": "Volcan",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1JqlRdbaVA73jDq8y46vX4/82e89f39c479526ace294ba246d0b085/Volcan-Shield.png",
+  "deviceEvaluation": "<br>Volcan</br><br>Operator: Cesar Ruiz Hernandez</br><br>Evaluation Lead: Dr. Elena 'Mira' Alvarez, Director of R&D</br>Hernandez had already added a light flame retardant to the mix, but balked at the idea of carrying an actual fire extinguisher. He did mutter something about an 'anti-fire grenade' as we walked way, though.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1j9nSf8pFdngbx916IxJVD/6af2cbf6b6de1923f7f53ee9da915332/operator-video-ability-goyo.mp4",
+  "userId": [
+    "goyo"
+  ]
+},{
+  "_id": {
+    "$oid": "647641480e9ad73d9e3f2b52"
+  },
+  "id": "hel",
+  "name": "Hel",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/57miqbOn8xWBh7ne7za3CV/35364108d49380a0ed33998f970e104f/HEL-Presence-Reduction.png",
+  "deviceEvaluation": "<br>Hel</br><br>Operator:Karina Gaarddhoje</br><br>Evaluation Lead: Specialist Chul Kyung 'Vigil' Hwa</br>However, like the ERC-7, it does have its limitations. Running or making certain arm motions is going to give the system some trouble as it tries to sanitize the user's image from nearby cameras in real-time. Until I can gather more data from tests in the field, Specialist Nøkk is as close to being a ghost as we can currently get.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/61qeOaEWdVeU7C9RAzrl7Q/e01b0ae7106e946eacc16236d2c8c6fd/operator-video-ability-nokk.mp4",
+  "userId": [
+    "nokk"
+  ]
+},{
+  "_id": {
+    "$oid": "6476415e0e9ad73d9e3f2b54"
+  },
+  "id": "glance",
+  "name": "Glance",
+  "hudIcon": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/warden",
+  "deviceEvaluation": "<br>Glance Smart Glasses</br><br>Operator:Specialist Collinn 'Warden' McKinley</br><br>Evaluation Lead:Specialist Elena 'Mira' Maria Alvarez</br>Specialist McKinley has been a nuisance. He keeps asking for different styles for his Smart Glasses, but I work on the lenses themselves. I don't do designer frames.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/11FCnjzLAm4uZ88qWJz3UM/4196c8543b6992181dfc881d4a88526e/operator-video-ability-warden.mp4",
+  "userId": [
+    "warden"
+  ]
+},{
+  "_id": {
+    "$oid": "647641b30e9ad73d9e3f2b55"
+  },
+  "id": "pestlauncher",
+  "name": "Pestlauncher",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5L0fFKVOwozKMcmJoenfef/56e4efdf77363556b35a76fd4e0e60f6/Pest-Launcher.png",
+  "deviceEvaluation": "<br>Pest Launcher</br><br>Operator:Specialist Max 'Mozzie' Goose</br><br>Evaluation Lead:  Specialist Grace 'Dokkaebi' Nam</br>Of course I'd get asked to evaluate Mozzie's Pest. I'm the only one around with any hacking cred. So here's what I know: once the Pest is deployed, it's programmed to search a specific area, latching onto the nearest enemy drone and obscuring the camera. Then it initiates the override sequence. Their drone now belongs to him. It happens fast. Even faster is Mozzie shooting the Pest directly at a drone.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/62T9CNmz9YPCNT9w9IuGfk/97c031af18ddd81f78133c83c2cbceb7/operator-video-ability-mozzie.mp4",
+  "userId": [
+    "mozzie"
+  ]
+},{
+  "_id": {
+    "$oid": "647641d20e9ad73d9e3f2b56"
+  },
+  "id": "trax",
+  "name": "Trax",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/QGVvmZeZ91FC2X4mvMzgn/601fa45e635872aea31f15ffebb9c366/Trax-Stingers.png",
+  "deviceEvaluation": "<br>Trax</br><br>Operator:Specialist Tori 'Gridlock' Fairous</br><br>Evaluation Lead:Specialist Elena 'Mira' Maria Alvarez</br>It was easy to see the SASR's Mobility Troop needed to stop a vehicle in it's tracks. My first thought was something like a bull driver - ram right into 'em! But we needed something to disable them. We needed something to get them off our tail and give us some distance. I started with the classic road spike and transformed it into interconnected webbing. The hexagonal cluster of spikes is strong and covers uneven ground better than a straight mat. Once that was done, I adapted it until it was disc shaped. Not only did this make it easier to mount onto my truck, it meant that I could eject the traps while driving. Rainbow's engineering think tank suggested a portable ground version. That had me tinkering big time! There were a lot of variables to contend with: It became all about spring-loaded mechanisms, centrifugal force, and timing. I compressed the discs into a neat, little package, stacked them, and inserted a mechanism that requires some serious muscle to crank it up. Once it's deployed, they have no trouble covering a large area. Nothing is getting through.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3wWAQGDxeaQfflYONKHFKZ/00eb92c97c175df72018886a20112ecb/operator-video-ability-gridlock.mp4",
+  "userId": [
+    "gridlock"
+  ]
+},{
+  "_id": {
+    "$oid": "647641dd0e9ad73d9e3f2b57"
+  },
+  "id": "airjab",
+  "name": "Airjab",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6d0LN1QWzviEkcYu3mTn6v/e49511a479756f71224f14225ad9cbd8/Airjab-Launcher.png",
+  "deviceEvaluation": "<br>Airjab</br><br>Operator:Sanaa El Maktoub</br><br>Evaluation Lead:Specialist  'Zofia' </br>Once it's launched from the custom rifle attachment, the repulsion grenade can stick to a wall, effectively becoming a trap. No matter it's location, there's a short delay to allow for chemical adhesion before the Airjab is considered active. The push back grenade is then ready and can explode when an enemy is within range.",
+  "deviceVideo": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6BsdZCPR0tnAaagHLtNCHp/f6be7692d305041737dc98d73e31c380/operator-video-ability-nomad.mp4",
+  "userId": [
+    "nomad"
+  ]
+},{
+  "_id": {
+    "$oid": "647641e50e9ad73d9e3f2b58"
+  },
+  "id": "cceshield",
+  "name": "Cceshield",
+  "hudIcon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1jck6fnzAMbMQrUMVsnA0M/d04a60eab0132e6bcc202a4f99186cdd/CCE-Shield.png",
+  "deviceEvaluation": "<br>Cceshield</br><br>Operator:Morowa Evans</br><br>Evaluation Lead:Specialist Elena 'Mira' Maria Alvarez, Rainbow R&D Director</br>Upon request, Specialist Pichon and I prototyped an extendable shield aptly named the Crowd Control Electro Shield (CCE Shield). I worked on the bulletproof aspect of the polycarbonate. Faraday mesh integration, and the deployment of the panels. Specialist Pichon iterated on the electric coils, optimizing the transformer and battery, all the while make it safe for the user.",
+  "deviceVideo": "hhttps://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5f4BsVvWXfDfh8gAaKddSU/14bfc8ef09a6bf39e9b7eb62dda5a710/operator-video-small-clash.mp4",
+  "userId": [
+    "clash"
+  ]
+}]

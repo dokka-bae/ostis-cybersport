@@ -1,0 +1,48 @@
+.mod-item{
+    margin-top: 48px;
+
+    &-header{
+        height: 128*3px;
+        width: 100%;
+        border-radius: 16px;
+        background: url('https://static-dm.ubisoft.com/siege/prod/7907369fa863844fc1ae432a9ca0e610.jpg') no-repeat center;
+        display: flex;
+
+        img{
+            border-radius: 16px 0 0 16px;
+            width: 50%;
+            object-fit: cover;
+        }
+        &-content{
+            padding: 36px;
+            color: #fbfbfb;
+            &-name, &-types{
+                font-size: 24px;
+                text-transform: uppercase;
+                font-weight: 600;
+            }
+
+            &-title{
+                font-size: 18px;
+                text-transform: uppercase;
+                color: #c5c5c5;
+                margin-top: 12px;
+            }
+        }
+
+    }
+    &-overview{
+        margin-top: 36px;
+
+        &-title{
+            font-size: 24px;
+            font-weight: 600;
+            text-align: center;
+            margin-bottom: 18px;
+        }
+
+        &-content{
+            font-size: 18px;
+        }
+    }
+}

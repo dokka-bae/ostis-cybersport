@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "6449a62a8fd05ba10d3ca79b"
+  },
+  "id": "bank",
+  "name": "Банк",
+  "location": "Лос-Анджелес, Калифорния",
+  "terrain": "Городской, Интерьер",
+  "playlists": [
+    {
+      "custom": "Кастомная"
+    },
+    {
+      "newcomer": "Новичок"
+    },
+    {
+      "casual": "Казуальная"
+    },
+    {
+      "ranked": "Рейтинговая"
+    }
+  ],
+  "overview": "<p>Bank is located in Los Angeles, California. It features two floors, a basement, and a roof. The bank itself is heavily fortified, meaning attackers will have a difficult time infiltrating it and locating the objective. Defenders, on the other hand, can easily reinforce the small rooms within.</p><p>Bank is one of Rainbow Six Siege’s original 10 maps released in 2015.</p>",
+  "layers": [
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1DQ8HzVXAIpl5Flv1BNURw/c312cb87861b6c936510bc751ba9683b/r6-maps-bank-blueprint-3.jpg",
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ZcnTtEXcYt8CrMsjbCvSu/df6694e263225814bb6ac8a0787d90d5/r6-maps-bank-blueprint-1.jpg",
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ITkJP9lxHjVKzS9Ubcwtv/5e3948920858f8a624cffa56fc7514df/r6-maps-bank-blueprint-2.jpg",
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3iRfs8bs7ZDzQLiXtWH5sk/faffda675d754e148bb0ab2c249239ae/r6-maps-bank-blueprint-4.jpg"
+  ],
+  "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ilgtuzucX7hEu2MvjhRtp/c569ec09cb8ad7a1abe964da33a4077a/r6-maps-bank.jpg"
+},{
+  "_id": {
+    "$oid": "6449a8a88fd05ba10d3ca79c"
+  },
+  "id": "border",
+  "name": "Граница",
+  "location": "Средний Восток",
+  "terrain": "Песок, Интерьер",
+  "playlists": [
+    {
+      "custom": "Кастомная"
+    },
+    {
+      "casual": "Казуальная"
+    },
+    {
+      "ranked": "Рейтинговая"
+    }
+  ],
+  "overview": "<p>Somewhere in Middle East, team Rainbow has been called in to assist local law enforcement regain control of the border. A mix of old and new construction and open air pathways, this is one of the most destructible and open maps in the game.</p><p>Border is a map featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Dust Line expansion. It was later reworked in the Crimson Heist expansion. The reworked version of the map returns in Tom Clancy's Rainbow Six Mobile.</p>",
+  "layers": [
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4nl4T7y1mBfwrti5e8Jq9Q/78fc6dbba89cdcc5a10a8e90889e870b/r6-maps-border-blueprint-1.jpg",
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1lG2AxuPadRvfN8Vjx7jGV/200afc5ce945628b744437a20969b1c5/r6-maps-border-blueprint-2.jpg",
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7KjYpqMzBlBDHY1Vbwtz55/d87fe5e00d1623434a9499d485d6d196/r6-maps-border-blueprint-3.jpg"
+  ],
+  "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4hqsrL3cokFqedkfjiEaGf/c73f6714b535263a18e4de2ca2405dd1/r6-maps-border__1_.jpg"
+},{
+  "_id": {
+    "$oid": "6449a9d08fd05ba10d3ca79e"
+  },
+  "id": "chalet",
+  "name": "Шале",
+  "location": "Куршевель, Франция",
+  "terrain": "Снег, Интерьер",
+  "playlists": [
+    {
+      "custom": "Кастомная"
+    },
+    {
+      "newcomer": "Новичок"
+    },
+    {
+      "casual": "Казуальная"
+    },
+    {
+      "ranked": "Рейтинговая"
+    }
+  ],
+  "overview": "<p>A shootout in an “après-ski” chalet in the French alps, this area contrasts the warm, cozy mood of its interiors with the cold, constrained visibility of its exteriors.</p><p>Chalet is a map featured in Tom Clancy's Rainbow Six Siege. A shootout in an “après-ski” chalet in the French alps. This area contrasts the warm, cozy mood of its interiors with the cold, constrained visibility of its exteriors. The map was reworked in the Operation Shadow Legacy expansion. A Christmas themed version of the map is the setting for the Snow Brawl event.</p>",
+  "layers": [
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/55eH3asFElZrkQdK1WmPyY/583fdef645e3bf497b0e95ea25e50bb0/r6-maps-chalet-blueprint-1.jpg",
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1qLSejhKPmyxbRyzDvSjMF/d4b547dba92db0a7b9dbf9e533159db6/r6-maps-chalet-blueprint-2.jpg",
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6Zrwl833U738T3GCsWyH5O/b795a4fa369d5ce5ee9a92064c5faec3/r6-maps-chalet-blueprint-3.jpg",
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6zyfk9G5oTn9iGjKmKqzEc/2fe9ed710db46bac51213373df14e4db/r6-maps-chalet-blueprint-4.jpg"
+  ],
+  "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/Km3ZJUM7ZMVbGsi6gad5Y/c48162371342d9f15386c77a3766315b/r6-maps-chalet.jpg"
+},{
+  "_id": {
+    "$oid": "6449aaba8fd05ba10d3ca79f"
+  },
+  "id": "coastline",
+  "name": "Береговая линия",
+  "location": "Ибица, Испания",
+  "terrain": "Интерьер, Бассейн, Сады",
+  "playlists": [
+    {
+      "custom": "Кастомная"
+    },
+    {
+      "newcomer": "Новичок"
+    },
+    {
+      "casual": "Казуальная"
+    },
+    {
+      "ranked": "Рейтинговая"
+    },
+    {
+      "unranked": "Внерейтинговая"
+    },
+    {
+      "terrorist_hunt": "Террористическая охота"
+    }
+  ],
+  "overview": "<p>Team Rainbow has been called to safeguard the seashore of Ibiza, Spain. Two of G.E.O.'s most resourceful Operators have been selected to provide their unique tactical expertise to the unit. Stationed on Ibiza’s rocky shore, course through Balearic ruins and navigate booming bars to neutralize the threat. Get ready for a surround flow of combat laced with chaotic rushes as you explore a paradise gone wrong.</p><p>Coastline is a map featured Tom Clancy's Rainbow Six Siege, introduced in the Operation Velvet Shell expansion. The map received a minor rework in the Crystal Guard expansion.</p>",
+  "layers": [
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4b0lpXOb5Hv6kgJ2BvrjP9/59b1ccd49d36b8b38621d39d8f9479f9/r6-maps-coastline-blueprint-1.jpg",
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5juDHwzsSzib8ljx1IzhUa/47430644b7f65c72df9f26a340bead84/r6-maps-coastline-blueprint-2.jpg",
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2F2dvGQqZQk0AzfTN4VbT5/7fbb95687a759f3bd9e0ece51d667e8e/r6-maps-coastline-blueprint-3.jpg"
+  ],
+  "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5GfAQ3pXCJnDqiqaDH3Zic/db1722cd699bb864ee8f7b0db951b0c3/r6-maps-coastline.jpg"
+},{
+  "_id": {
+    "$oid": "6449abc18fd05ba10d3ca7a1"
+  },
+  "id": "clubhouse",
+  "name": "Клуб",
+  "location": "Ганновер, Германия",
+  "terrain": "Городской, Интерьер",
+  "playlists": [
+    {
+      "custom": "Кастомная"
+    },
+    {
+      "casual": "Казуальная"
+    },
+    {
+      "ranked": "Рейтинговая"
+    }
+  ],
+  "overview": "<p>This map depicts an assault on a biker gang clubhouse. Featuring a full bar, gaming tables and leather furniture, this mixed interior/exterior layout offers a host of interesting tactical possibilities for both attacker and defender.</p><p>Clubhouse is a map featured in Tom Clancy's Rainbow Six Siege and Tom Clancy's Rainbow Six Mobile. The interior of the map was reworked alongside the release of the Operation Para Bellum expansion. It received another minor rework in the Crystal Guard expansion.</p>",
+  "layers": [
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6Zs2KBoWjSdaC3qssqwB9N/33907dda5e0363659477296c0e9756c5/r6-maps-clubhouse-blueprint-1.jpg",
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3taneZwe0lPRHGvXcJZb6Q/a35fd0b00699bbcc7a88bd2c08db96b6/r6-maps-clubhouse-blueprint-2.jpg",
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4StUcsi07j6h4DPrmgF5rC/bb99e697439b647bb4fd192b29bb588c/r6-maps-clubhouse-blueprint-3.jpg",
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5tP8wrsOiDBfa7NzkUUCQQ/b5e27ccd5b145ce59f8886b004e32c8e/r6-maps-clubhouse-blueprint-4.jpg"
+  ],
+  "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1vCw5eD2XzxZlv6Au1gtui/baeebaa75cd672e0af8f9f624cf61bde/r6-maps-clubhouse.jpg"
+},{
+  "_id": {
+    "$oid": "6449ac888fd05ba10d3ca7a4"
+  },
+  "id": "kafe",
+  "name": "Кафе 'Достоевский'",
+  "location": "Москва, Россия",
+  "terrain": "Cнег, Интерьер",
+  "playlists": [
+    {
+      "custom": "Кастомная"
+    },
+    {
+      "casual": "Казуальная"
+    },
+    {
+      "ranked": "Рейтинговая"
+    }
+  ],
+  "overview": "<p>This high-class café in central Moscow is the pinnacle of glitz and glamour, and is a natural intervention ground for Spetsnaz forces. The grounds have been seized by terrorists at peak hours on Christmas Eve, and destruction of the rich, chic, classic decor will be a key element of this map.</p><p>Kafe Dostoyevsky is a map featured in Tom Clancy's Rainbow Six Siege. The map was reworked in March 2019 with the release of the Operation Phantom Sight expansion. The reworked focused on a massive redesign of the interior of the facility.</p>",
+  "layers": [
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3WeSCQnTruB4nJ0n9xm7U7/cec112a997dd78b46515b6242d25a379/r6-maps-kafe-blueprint-1.jpg",
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7njwDjC8jAG7g2krGRKsYb/2c4216a5f3baee22074759ba1dd45e55/r6-maps-kafe-blueprint-2.jpg",
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/15f2nyYsxok1GMsuFCrOTW/9036cb95e0f3e048b93aed8f4c13483a/r6-maps-kafe-blueprint-3.jpg",
+    "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3DdjeKrUij0wzjVlF4FML3/6d74c067b57490ccdc7dc7b180618811/r6-maps-kafe-blueprint-4.jpg"
+  ],
+  "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2nIuPSHvbM57TK90VSwBEm/70144ada56cf1ba72103aeb4ece9ed1a/r6-maps-kafe.jpg"
+}]

@@ -1,7 +1,7 @@
 .operator{
     margin-top: 48px;
     &-header{
-        height: 128*2px;
+        height: 128*2+64px;
         width: 100%;
         border-radius: 24px;
         background: url('https://static-dm.ubisoft.com/siege/prod/7907369fa863844fc1ae432a9ca0e610.jpg') no-repeat center;
@@ -10,7 +10,11 @@
         img{
             width: 36%;
             object-fit: cover;
-            object-position: top;
+            object-position: top right;
+            height: 100%;
+
+            border-radius: 0 24px 24px 0;
+            
         }
 
         &-content{
@@ -130,6 +134,7 @@
                         &-name{
                             text-align: center;
                             padding: 8px 0;
+                            font-weight: 600;
                             width: 100%;
                         }
 

@@ -6,19 +6,19 @@ import gameMods from './assets/imgs/mods.jpg'
 
 const Main = () => {
     const[category, setCategory] = useState([
-        // {
-        //     name: 'Game modes',
-        //     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
-        //     path: '/mods'
-        // },
+        {
+            name: 'Game modes',
+            description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
+            path: '/mods'
+        },
         {
             name: 'Weapons',
-            description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
+            description: 'Оружие в игре представлено разнообразным арсеналом из более чем 50 видов стрелкового и огнестрельного оружия, включая пистолеты, автоматические винтовки, пулеметы,дробовики и снайперские винтовки',
             path: '/weapons'
         },
         {
             name: 'Operators',
-            description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
+            description: 'В игре представлен широкий спектр оперативников или персонажей, которых игроки используют для выполнения задач и победы в матче. В настоящее время в Rainbow Six Осада доступно 54 оператора, что дает игрокам широкий выбор персонажей на выбор во время игры',
             path: '/characters'
         },
         {

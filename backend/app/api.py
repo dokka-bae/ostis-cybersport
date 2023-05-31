@@ -22,11 +22,25 @@ app.add_middleware(
 
 client = MongoClient('mongodb://localhost:27017/')
 
+@app.get("/characters")
+async def get_all_weapons() -> list:
+    maps = list(client['ostis-cybersport']['characters'].find({}, {"_id": 0}))
+    return maps
 
 @app.get("/characters/{id}")
 async def get_character(operator_name: str) -> Operator:
     operator = client['ostis-cybersport']['characters'].find_one({"id": operator_name})
     return operator
+
+@app.get("/mods")
+async def get_all_modes() -> list:
+    maps = list(client['ostis-cybersport']['modes'].find({}, {"_id": 0}))
+    return maps
+
+@app.get("/mods/{id}")
+async def get_f_mods(mod_id: str) -> dict:
+    map = client['ostis-cybersport']['modes'].find_one({"id": mod_id}, {"_id": 0})
+    return map
 
 
 @app.get("/weapons")
