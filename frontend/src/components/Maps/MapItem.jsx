@@ -2,6 +2,17 @@ import React, {useEffect, useState} from 'react'
 import { useParams } from 'react-router-dom'
 import './styles/MapItem.scss'
 import { Link } from 'react-router-dom';
+import 'react-slideshow-image/dist/styles.css'
+import { Slide } from 'react-slideshow-image';
+  
+  const divStyle = {
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundSize: 'cover',
+    height: '800px',
+    borderRadius: "24px"
+  }
 
 export default function MapItem() {
     let{mapId} = useParams();
@@ -52,7 +63,14 @@ export default function MapItem() {
             <div className="map-blueprints">
                 <div className="map-blueprints-title">ЧЕРТЕЖИ</div>
                 <div className='map-blueprints-img'>
-                    {map.layers.map((item) => (<img src={item}/>))}
+                    <Slide indicators={true}>
+                    {map.layers.map((item, index)=> (
+                        <div key={index}>
+                            <div style={{ ...divStyle, 'backgroundImage': `url(${item})` }}>
+                            </div>
+                        </div>
+                    ))} 
+                    </Slide>
                 </div>
             </div>
         </div>

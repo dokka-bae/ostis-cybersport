@@ -43,6 +43,7 @@ export default function Operator() {
         const weapons = await response.json()
         if(weapons != null && weapons !== undefined)
         setWeapons(weapons)
+        console.log(weapons)
     }
 
   useEffect(() => {
@@ -91,8 +92,8 @@ export default function Operator() {
                         <div className="operator-loadout-content-item">
                             <div className="operator-loadout-content-item-title">Основное</div>
                             <div className="operator-loadout-content-item-list">
-                                {weapons !== undefined ? weapons.first.map((item) => (
-                                    <Link className='operator-loadout-content-item-list-itm' to={'/weapons/' + item.id}>
+                                {weapons.second !== null ? weapons.first.map(( item) => (
+                                    <Link key={item.id} className='operator-loadout-content-item-list-itm' to={'/weapons/' + item.id}>
                                         <img src={item.icon} alt="" className="operator-loadout-content-item-list-itm-img" />
                                         <div className="operator-loadout-content-item-list-itm-name">{item.name}</div>
                                     </Link>
@@ -102,8 +103,8 @@ export default function Operator() {
                         <div className="operator-loadout-content-item">
                             <div className="operator-loadout-content-item-title">Вторичное</div>
                             <div className="operator-loadout-content-item-list">
-                                {weapons !== undefined ? weapons.second.map((item) => (
-                                    <Link className='operator-loadout-content-item-list-itm' to={'/weapons/' + item.id}>
+                                {weapons.second[0] !== null ? weapons.second.map((item) => (
+                                    <Link key={item.id} className='operator-loadout-content-item-list-itm' to={'/weapons/' + item.id}>
                                         <img src={item.icon} alt="" className="operator-loadout-content-item-list-itm-img" />
                                         <div className="operator-loadout-content-item-list-itm-name">{item.name}</div>
                                     </Link>
@@ -113,8 +114,8 @@ export default function Operator() {
                         <div className="operator-loadout-content-item">
                             <div className="operator-loadout-content-item-title">Устройство</div>
                             <div className="operator-loadout-content-item-list">
-                                {weapons !== undefined ? weapons.device.map((item) => (
-                                    <Link className='operator-loadout-content-item-list-itm' to={'/weapons/' + item.id}>
+                                {weapons.device[0] !== null ? weapons.device.map((item) => (
+                                    <Link key={item.id} className='operator-loadout-content-item-list-itm' to={'/weapons/' + item.id}>
                                         <img src={item.icon} alt="" className="operator-loadout-content-item-list-itm-img" />
                                         <div className="operator-loadout-content-item-list-itm-name">{item.name}</div>
                                     </Link>
@@ -124,12 +125,12 @@ export default function Operator() {
                         <div className="operator-loadout-content-item">
                             <div className="operator-loadout-content-item-title">ОСОБЫЙ НАВЫК</div>
                             <div className="operator-loadout-content-item-list">
-                                {characterTestDataWeap.spec.map((item) => (
-                                    <Link className='operator-loadout-content-item-list-itm' to={'/weapons/' + item.name.split(' ').join('')}>
-                                        <img src={item.img} style={{filter: 'invert(1)'}} alt="" className="operator-loadout-content-item-list-itm-img" />
+                                {weapons.spec[0] !== null ? weapons.spec.map((item) => (
+                                    <Link key={item.id}  className='operator-loadout-content-item-list-itm' to={'/weapons/' + item.name.split(' ').join('')}>
+                                        <img src={item.hudIcon} style={{filter: 'invert(1)'}} alt="" className="operator-loadout-content-item-list-itm-img" />
                                         <div className="operator-loadout-content-item-list-itm-name">{item.name}</div>
                                     </Link>
-                                ))}
+                                )) : null}
                             </div>
                         </div>
                     </div>
@@ -137,7 +138,7 @@ export default function Operator() {
             <div className="operator-bio">
                 <div className="operator-bio-title">— Биография —</div>
                 <div className="operator-bio-info">
-                <iframe className='operator-bio-info-video' src={operator.bio_video} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe className='operator-bio-info-video' src={operator.bio_video} title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
                     <div className="operator-bio-info-stats">
                         <div className='operator-bio-info-stats-item'>
                             <div className="operator-bio-info-stats-item-title">Настоящее имя</div>

@@ -5,7 +5,7 @@ import {Link} from "react-router-dom";
 import gameMods from './assets/imgs/mods.jpg'
 
 const Main = () => {
-    const[category, setCategory] = useState([
+    const[category] = useState([
         {
             name: 'Game modes',
             description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
@@ -49,7 +49,7 @@ const Main = () => {
                 <h1 className='categories-title'>Категории</h1>
                 <div className='categories'>
                     {category.map((item)=>(
-                        <Link to={item.path}>
+                        <Link key={item.path.replace('/', '')} to={item.path}>
                         <div className='categories-item'>
                             <img src={gameMods} alt="" className="categories-item-img"/>
                             <div className="categories-item-content">

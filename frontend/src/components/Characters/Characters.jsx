@@ -29,7 +29,7 @@ const Characters = () => {
                     <div className='characters-items'>
                         {characters.map((item) => (
                             item.side === 'Атака' ? 
-                            <Link to={item.id}>
+                            <Link key={item.id} to={item.id}>
                             <div className='characters-items-card'>
 
                                     <img className='characters-items-card-preview-img' src={item.img} alt=''/>
@@ -44,7 +44,7 @@ const Characters = () => {
                     <div className='characters-items'>
                         {characters.map((item) => (
                             item.side === 'Защита' ? 
-                            <Link to={item.id}>
+                            <Link key={item.id} to={item.id}>
                             <div className='characters-items-card'>
 
                                     <img className='characters-items-card-preview-img' src={item.img} alt=''/>
