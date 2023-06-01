@@ -13,7 +13,7 @@ const Characters = () => {
     }
 
     useEffect(()=>{
-        fetchAllWeapons()
+        fetchAllWeapons() //TODO fix fetch response
     }, [])
 
     if(characters === undefined)

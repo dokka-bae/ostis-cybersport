@@ -28,6 +28,7 @@ export default function MapItem() {
 
     useEffect(()=>{
         fetchGetMap()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [])
 
     if(map === undefined)
@@ -63,7 +64,7 @@ export default function MapItem() {
             <div className="map-blueprints">
                 <div className="map-blueprints-title">ЧЕРТЕЖИ</div>
                 <div className='map-blueprints-img'>
-                    <Slide indicators={true}>
+                    <Slide indicators={true} >
                     {map.layers.map((item, index)=> (
                         <div key={index}>
                             <div style={{ ...divStyle, 'backgroundImage': `url(${item})` }}>
