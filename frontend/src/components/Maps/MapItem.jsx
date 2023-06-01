@@ -51,7 +51,7 @@ export default function MapItem() {
                     </div>
                     <div className="map-header-content-item_play">
                         <div className="map-header-content-item_play-title">РЕЖИМЫ: </div>
-                        <div className="map-header-content-item_play-value">{map.playlists.map((item) => (<Link to={"/gamemodes/" + Object.keys(item) }>{Object.values(item)}</Link>))}</div>
+                        <div className="map-header-content-item_play-value">{map.playlists.map((item) => (<Link to={"/mods/" + Object.keys(item) }>{Object.values(item)}</Link>))}</div>
                     </div>
                 </div>
             </div>

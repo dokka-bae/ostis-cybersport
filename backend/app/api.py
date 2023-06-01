@@ -22,6 +22,15 @@ app.add_middleware(
 
 client = MongoClient('mongodb://localhost:27017/')
 
+
+@app.post("/todo", tags=["todos"])
+async def add_todo(todo: dict) -> dict:
+    
+    return {
+        "data": { f"{todo}" }
+    }
+
+
 @app.get("/characters")
 async def get_all_weapons() -> list:
     maps = list(client['ostis-cybersport']['characters'].find({}, {"_id": 0}))

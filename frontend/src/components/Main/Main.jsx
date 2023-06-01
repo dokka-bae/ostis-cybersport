@@ -5,6 +5,7 @@ import {Link} from "react-router-dom";
 import gameMods from './assets/imgs/mods.jpg'
 
 const Main = () => {
+    
     const[category] = useState([
         {
             name: 'Game modes',
@@ -28,6 +29,7 @@ const Main = () => {
         },
         
     ])
+
     return (
         <div>
             <div className="container">

@@ -1438,4 +1438,315 @@
   ],
   "ads": "200",
   "ammo": "9x19mm Parabellum"
+},{
+  "_id": {
+    "$oid": "6478f87853d73183d0a50383"
+  },
+  "id": "mp5",
+  "name": "MP 5",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/60YbOvSBQt6ZUlu8YDXoZm/51ef3857b2986de700262432e8433714/MP5.png",
+  "overview": "The MP5 has a highly manageable recoil that allows the user to control it with ease. However, it has a rather underwhelming damage output. Combined with the slightly below average fire rate of 800 RPM, this makes the MP5 easily fall into the slightly weak category. It is capable of taking out Light Armored Operators in four body shots of its effective range in a quarter of a second, while Medium and Heavy Armored Operators take five. Suppressed, the MP5 will be able to take down Light Armored Operators in five body shots, but the other two Armor Types will take six.",
+  "in_game_desc": "Short to medium range submachine gun. High rate of fire and mobility. Favored by GIGN.",
+  "real_name": [
+    "HK MP-5"
+  ],
+  "type": "Submachine Gun",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic",
+    "Automatic",
+    "3-round burst"
+  ],
+  "magazine_size": 30,
+  "user_id": [
+    "melusi",
+    "wamai",
+    "echo",
+    "mute"
+  ],
+  "damage_st": [
+    "27 (0-18m)",
+    "18 (28+m)"
+  ],
+  "rate_of_fire": "800 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.9s (Empty)",
+    "2.2s (Tactical)"
+  ],
+  "ads": "300",
+  "ammo": "9x19mm Parabellum"
+},{
+  "_id": {
+    "$oid": "6478f88453d73183d0a50384"
+  },
+  "id": "super90",
+  "name": "SUPER 90",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1TLWSu0xHJlAsfEfafeC9X/f9647e70a18962bf1627095c8b46832e/Super_90.png",
+  "overview": "Super 90 — дробовик, крайне эффективный на короткой дистанции из-за своего сочетания достаточно неплохого урона и высокой потенциальной скорострельности. Он очень похож на SPAS-12 и M1014, и различия между ними минимальны. Super 90 имеет чуть больший урон по сравнению с последним, но в целом незначительно хуже чем первый.",
+  "in_game_desc": "Компактный дробовик. Можно использовать для создания брешей.",
+  "real_name": [
+    "SUPER 90"
+  ],
+  "type": "Shotgun",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 7,
+  "user_id": [
+    "melusi",
+    "frost"
+  ],
+  "damage_st": [
+    "27(x8) (0-18m)",
+    "18(x8) (28+m)"
+  ],
+  "rate_of_fire": "200 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.9s (Empty)",
+    "2.2s (Tactical)"
+  ],
+  "ads": "300",
+  "ammo": "12 BP"
+},{
+  "_id": {
+    "$oid": "6478f88d53d73183d0a50385"
+  },
+  "id": "rg15",
+  "name": "RG15",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2LNSsp7B7wUnnPUweir7Jm/9f66d53be7a63a17a55253a0bea6eec1/RG15.png",
+  "overview": "The RG15 outputs the weakest damage out of all handguns at 38 damage per shot. However, similar to the P-10C, it provides great accuracy with its pre-attached Red Dot Sight. Within its most effective range there is not much of a difference between a suppressed and unsuppressed RG-15 in terms of damage. For Light and Medium Armored Operators it will take 3 shots, unsuppressed, while a Heavy Armored Operator will take 4. For Light Armored Operators it will take 3 shots, suppressed, while a Medium and Heavy armored Operator will take 4.",
+  "in_game_desc": "Customized 9mm semi-automatic handgun, equipped with a Romeo1 Reflex.",
+  "real_name": [
+    " P-10C"
+  ],
+  "type": "Handgun",
+  "wtype": "second",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 7,
+  "user_id": [
+    "melusi",
+    "zofia"
+  ],
+  "damage_st": [
+    "38 (0-12m)",
+    "22 (22+m)"
+  ],
+  "rate_of_fire": "550 RPM",
+  "mobility": "45",
+  "reload_time": [
+    "2.4s (Empty)",
+    "1.9s (Tactical)"
+  ],
+  "ads": "200",
+  "ammo": "9×19mm Parabellum"
+},{
+  "_id": {
+    "$oid": "6478f89853d73183d0a50386"
+  },
+  "id": "arx200",
+  "name": "ARX200",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6VgkPBsr1WApI3rWc9kcM0/b18b8e25f3e951e8e722213f2ee59eb0/ARX200.png",
+  "overview": "The ARX200 is similar to the Type-89 by the fact that it has a 20-round magazine, although its slower fire rate and higher damage allow it to suit a slower playstyle. The gun has solid damage output and very manageable recoil which allows it to be used at medium to long range. The gun's default iron sights are similar to those on the MP7. Nomad's Airjab Launcher prevents her from equipping any Grip for the weapon, contrasting Iana's rifle, which can come equipped with a Vertical Grip.",
+  "in_game_desc": "Heavy hitting .308 NATO assault rifle, both fully automatic or single shot.",
+  "real_name": [
+    "Type-89"
+  ],
+  "type": "Assault Rifle",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic",
+    "Automatic",
+    "3-round burst"
+  ],
+  "magazine_size": 20,
+  "user_id": [
+    "iana",
+    "melusi"
+  ],
+  "damage_st": [
+    "47 (0-25m)",
+    "28 (35+m)"
+  ],
+  "rate_of_fire": "700 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "3.4s (Empty)",
+    "2.6s (Tactical)"
+  ],
+  "ads": "400",
+  "ammo": "7.62×51mm NATO"
+},{
+  "_id": {
+    "$oid": "6478f8a253d73183d0a50387"
+  },
+  "id": "g36c",
+  "name": "G36C",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2SZoqSXKoNPvZFIJsFsDE5/cb109885bf19c8697abf832f10cfd9a6/G36C.png",
+  "overview": "The G36C comes with slightly sub-par damage output and average rate of fire, making it a decent middle ground for engaging targets at any range while being powerful enough to down Defenders. The G36C's recoil is relatively simple as it goes straight up. Its vertical recoil remains low regardless of muzzle attachment. Therefore, the Compensator is recommended as it's best at reducing the sudden horizontal bounces that kick in from the 4th shot onwards.",
+  "in_game_desc": "Assault rifle with medium recoil. Takes 5.56mm caliber ammunition.",
+  "real_name": [
+    "HK G36C"
+  ],
+  "type": "Assault Rifle",
+  "wtype": "first",
+  "fire_modes": [
+    "Semi-automatic",
+    "Automatic"
+  ],
+  "magazine_size": 30,
+  "user_id": [
+    "iana"
+  ],
+  "damage_st": [
+    "38 (0-25m)",
+    "26 (35+m)"
+  ],
+  "rate_of_fire": "780 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "3.3s (Empty)",
+    "2.4s (Tactical)"
+  ],
+  "ads": "400",
+  "ammo": "5.56×45mm NATO"
+},{
+  "_id": {
+    "$oid": "6478f8ae53d73183d0a50388"
+  },
+  "id": "mk19mm",
+  "name": "MK1 9MM",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3tWoNeF3jQYs3w4EOydQYs/434409c96693df1fd3e969d778e70795/Mk1_9mm_BI.png",
+  "overview": "The Mark I is a modern variant of the original Browning Hi-Power, also known as the P35, featuring some improvements as well as lacking the provision of the lanyard ring. It is among the best-known models of the P35 developed over the last 50 years. In-game, the Mk1 9mm trails behind the P226 Mk 25 and the P229 in terms of raw power, but is still a powerful sidearm with decent ammo capacity and high controllability. Similar to the M45 MEUSOC, the Mk1 9mm features a fast reload speed. Overall, it is a versatile Jack-of-all-Trades handgun along with the P226 Mk 25 and the P9.",
+  "in_game_desc": "Standard issue 9mm hand gun. Effective from short to medium range with medium stopping power.",
+  "real_name": [
+    "M1911 S&W"
+  ],
+  "type": "Handgun",
+  "wtype": "second",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 30,
+  "user_id": [
+    "iana",
+    "buck",
+    "frost"
+  ],
+  "damage_st": [
+    "48 (0-12m)",
+    "27 (22+m)"
+  ],
+  "rate_of_fire": "550 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "1.9s (Empty)",
+    "1.6s (Tactical)"
+  ],
+  "ads": "200",
+  "ammo": "9×19mm Parabellum"
+},{
+  "_id": {
+    "$oid": "6478f8ed53d73183d0a50389"
+  },
+  "id": "auga2",
+  "name": "AUG A2",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1eO39zRe8XxJXH1KZiIWhM/02049ced0fbfa630833e8b0d3c03de07/AUG_A2.png",
+  "overview": "The AUG A2 is a Jack-of-all-Trades assault rifle thanks to its low recoil, decent damage and fire rate. This allows it to perform well on both Attack and Defense while still being easy to control. A downside of this gun is its inability to equip any grips.",
+  "in_game_desc": "GSG 9's medium to long range assault rifle. Capable of firing 720 rounds/min.",
+  "real_name": [
+    "AUG A2"
+  ],
+  "type": "Assault Rifle",
+  "wtype": "first",
+  "fire_modes": [
+    "Automatic"
+  ],
+  "magazine_size": 30,
+  "user_id": [
+    "wamai"
+  ],
+  "damage_st": [
+    "42 (0-25m)",
+    "26 (35+m)"
+  ],
+  "rate_of_fire": "720 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "1.9s (Empty)",
+    "1.6s (Tactical)"
+  ],
+  "ads": "400",
+  "ammo": "5.56×45mm NATO"
+},{
+  "_id": {
+    "$oid": "6478f8f853d73183d0a5038a"
+  },
+  "id": "mp5k",
+  "name": "MP5K",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1pk8nOI7ybQjYOSI4fuzOm/fcd78df0f729be545e75c09aae85c360/MP5K.png",
+  "overview": "The MP5K is functionally similar to its full-sized cousin, it has the same rate of fire, almost identical recoil, but a slightly higher damage. The good controllability of the gun makes it decently strong, however it does have the disadvantage of not being able to equip a grip.",
+  "in_game_desc": "Close range 9mm submachine gun with a high rate of fire.",
+  "real_name": [
+    "MP5K"
+  ],
+  "type": "Submachine Gun",
+  "wtype": "first",
+  "fire_modes": [
+    "Automatic"
+  ],
+  "magazine_size": 30,
+  "user_id": [
+    "wamai",
+    "mute"
+  ],
+  "damage_st": [
+    "30 (0-18m)",
+    "22 (28+m)"
+  ],
+  "rate_of_fire": "800 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.8s (Empty)",
+    "2.0s (Tactical)"
+  ],
+  "ads": "300",
+  "ammo": "9×19mm Parabellum"
+},{
+  "_id": {
+    "$oid": "6478f90153d73183d0a5038b"
+  },
+  "id": "p12",
+  "name": "P12",
+  "icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2mpM7rah7rwEW0bViIirUC/ed9caa4db58421519fa4db390b1aa164/P12.png",
+  "overview": "The P12 comes with the exact same damage model as the GSh-18, featuring a subpar damage per shot of 44 and a relatively steep damage drop-off. Its magazine capacity is three rounds short of the GSh-18, yet still features relatively long reload times. Overall, the P12 can be considered a usable but average handgun with few redeeming qualities besides its low recoil.",
+  "in_game_desc": ".45 caliber semi-automatic pistol that has low recoil, best used in mid-range combat.",
+  "real_name": [
+    "HK P12"
+  ],
+  "type": "Handgun",
+  "wtype": "second",
+  "fire_modes": [
+    "Semi-automatic"
+  ],
+  "magazine_size": 15,
+  "user_id": [
+    "wamai"
+  ],
+  "damage_st": [
+    "44 (0-12m)",
+    "24 (22+m)"
+  ],
+  "rate_of_fire": "550 RPM",
+  "mobility": "50",
+  "reload_time": [
+    "2.4s (Empty)",
+    "1.9s (Tactical)"
+  ],
+  "ads": "300",
+  "ammo": ".45 ACP"
 }]
